@@ -1,0 +1,227 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_580532311959798280": {
+      "type": "gp-section-580532311959798280",
+      "settings": {
+        "checksum": "3c25ff0c154251bc456a2d35bf785c2f4a9a7958170c7ed286262ea779ca8f59_1_1_0_0__1",
+        "gg9xCRMHMny_text": "<span style=\"font-size:30px;\"><strong>it's not just a condition</strong></span><br><span style=\"color:#242872;font-size:30px;\"><i>- it's a parasite</i></span>",
+        "ggkQP-iBtKp_text": "<p><span style=\"color:#0A0A0A;font-size:14px;\">There's a <strong>fungus living under you beard</strong>, called Malassezia globosa. It <i>feeds off all the natural oils your skin produces.</i> <strong>Causing you to flake, itch, and develop dandruff. </strong>Which can spread to your face aswell.</span></p>",
+        "gg2V42f_5uJ_text": "<p><span style=\"color:#0A0A0A;font-size:15px;\"><i><strong>NewAura kills the fungus</strong>, while also moisturizing your skin. Allowing you to have a <u>parasite-free, healthy beard.</u></i></span></p>",
+        "ggYwEE0h_SA_label": "<p>Kill The Fungus!</p>"
+      }
+    },
+    "gp_section_580532311959863816": {
+      "type": "gp-section-580532311959863816",
+      "settings": {
+        "checksum": "abf2f49bc2f5f43a6365a95f59edff5cfbc9c407ff61d5aca5ddf1bed98f6f26_1_1_0_0__1",
+        "ggb7Cjlx4MK_text": "<span style=\"font-size:20px;\"><strong>4.8/5.0</strong> (1,910+ Reviews)</span>",
+        "ggD49_kzj42_text": "<span style=\"color:#000000;font-size:36px;\">don't ignore the Dandruff, stop it before it starts spreading.</span>",
+        "gg8wANA0F3X_text": "<span style=\"color:#001541;font-size:20px;\">Stop ignoring your <strong>scratchy, patchy, and flakey beard, </strong>your beard is trying to tell you something.</span>",
+        "gg-odct3ho7_text": "<span style=\"color:#000000;font-size:18px;\"><i>Dandruff isn't just dead skin cells, its a fungus that's hard to stop. <strong>NewAura combats against it, stopping the spread and flaking instantly.</strong></i></span>",
+        "ggfcXHrYl05_text": "<span style=\"color:#000000;font-size:22px;\">What It NewAura Does:</span>",
+        "ggwu4yGdwJs_childItem_0": "<p>Supports Healthy Beard Growth</p>",
+        "ggwu4yGdwJs_childItem_1": "<p>Kills the Fungus</p>",
+        "ggwu4yGdwJs_childItem_2": "<p>Instantly Gives You A Minty Cooling Relief</p>",
+        "ggwu4yGdwJs_childItem_3": "<p>Clears Flakes and Dandruff</p>",
+        "ggwu4yGdwJs_childItem_4": "<p>Stops the Redness and Irritation&nbsp;</p>",
+        "gggdlJsO4jm_label": "<p><span style=\"font-size:22px;\">Get Relief Now</span></p><p>&nbsp;</p>"
+      }
+    },
+    "gp_section_580532311959929352": {
+      "type": "gp-section-580532311959929352",
+      "settings": {
+        "checksum": "43bcaa7994481040e2f68131f64afbe3de6e48e267b5c1af9d836cab2a259fd9_1_1_0_0__1",
+        "gguzR54oThs_text": "<p><span style=\"font-size:28px;\">Step 1:</span></p>",
+        "gg2Y8VYT7YA_text": "<p><span style=\"font-size:22px;\">Wash &amp; dry the area</span></p>",
+        "gg1BQjTGo9J_text": "<p><span style=\"font-size:28px;\"><strong>Step 2:</strong></span></p>",
+        "ggHDTPS5i6I_text": "<p><span style=\"font-size:22px;\">Massage in cream for 2–3 minutes</span></p>",
+        "ggip0Gs-CnX_text": "<p><span style=\"font-size:28px;\"><strong>Step 3:</strong></span></p>",
+        "ggMNcITbBQL_text": "<p><span style=\"font-size:22px;\">Use 2–3x daily, until symptoms clear</span></p>",
+        "ggW-7eLsxwy_text": "<p><span style=\"font-size:22px;\">Keep using it for a few days after symptoms clear to stop flare-ups from coming back.</span></p>",
+        "ggajWFNdkfB_label": "<p><span style=\"font-size:22px;\">Try New Aura</span></p>"
+      }
+    },
+    "gp_section_580532311959994888": {
+      "type": "gp-section-580532311959994888",
+      "settings": {
+        "checksum": "47613fc3e307c69ce1d5e8fe920db9f7e33ebd5a447526d8987d1963b5a03e5d_1_1_0_0__1",
+        "gg8C5aNDWRn_text": "<span style=\"font-size:30px;\">87,500+ Beards Freed from Fungus</span>",
+        "ggsMMPJDV-8_text": "<span style=\"font-size:40px;\">What Men Are Saying</span><br><span style=\"font-size:40px;\">About New Aura</span>"
+      }
+    },
+    "gp_section_580532311960060424": {
+      "type": "gp-section-580532311960060424",
+      "blocks": {
+        "gp_app_kaching-bundles_gb9GsKSyD8": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{ product }}"
+          }
+        }
+      },
+      "block_order": [
+        "gp_app_kaching-bundles_gb9GsKSyD8"
+      ],
+      "settings": {
+        "checksum": "4b6e3f16b37afde8d8999e0a9795a7ce64a332ff9800aede9ff155c144e05d29_1_1_0_0__1",
+        "ggr85Gpxj9q_text": "<strong>4.8/5.0</strong> (1,910+ Reviews)",
+        "ggFqaGuwbCM_text": "100mL TREATMENT CREAM PER TUB",
+        "ggeEWDOIBuB_label": "ADD TO CART",
+        "ggeEWDOIBuB_outOfStockLabel": "Out Of Stock",
+        "ggeEWDOIBuB_unavailableLabel": "Unavailable",
+        "ggfQYyxLaF3_childItem_0": "<p>Description</p>",
+        "ggfQYyxLaF3_childItem_1": "<p>Shipping &amp; Exchanges</p>",
+        "ggjZtsEnByl_text": "<p><strong>Say goodbye to relentless itching, flakes, and irritation</strong><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:12px;\">. Advanced Treatment Cream is specially formulated to deliver fast-acting relief for seborrheic dermatitis, psoriasis, eczema, and dry, irritated skin. Packed with antibacterial and herbal ingredients, this non-greasy cream instantly soothes flare-ups, calms redness, and deeply moisturizes without clogging pores or leaving buildup.Safe for use on the scalp, face, ears, beard, and body, it’s your all-in-one solution for long-term skin comfort. Whether you’ve tried prescriptions, medicated shampoos, or natural remedies with no results—this is the one that finally works.Gentle enough for daily use. Strong enough to change your skin. hours.Formulated with advanced skin-tightening complexes, it’s your go-to fix before meetings, events, or anytime you want to look wide-awake and polished—without the hassle.Instantly reduces the look of under-eye bags, crow’s feet, and wrinklesFast-absorbing, non-greasy gel designed for use with or without makeupPerfect for all skin types—just dab, dry, and go discomfort, and promote clearer skin—without overdrying or irritation. Ideal for sensitive and acne-prone skin.</span></p>",
+        "ggGcJUd55ki_text": "<p><strong>Embrace a 30-day trial</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:12px;\">&nbsp; &nbsp; You've got nothing to lose. Not fully satisfied? Simply return it, our refund policy has got you covered, ensuring a full refund within the guidelines. Your satisfaction is our guarantee.</span><br><br><strong>Free Reliable &amp; Secure Delivery:</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:12px;\">&nbsp; &nbsp; &nbsp;Your order will arrive safely and on time, with our dependable delivery service that ensures your package is handled with care and precision from our door to yours.Your order will be delivered via your local postal service. Your orders will be dispatched within 48 hours, then will take 6-15 days to be delivered worldwide.</span></p>"
+      }
+    },
+    "gp_section_580532311960125960": {
+      "type": "gp-section-580532311960125960",
+      "settings": {
+        "checksum": "836848b77137b136d47eede965f2fee83279fdc7bc47421f401df8678d8b8e1d_1_1_0_0__1",
+        "ggsd1NariDR_text": "Why Men Are Switching<br>to New Aura...",
+        "gg_0VfXGIOk_text": "<p><span style=\"font-size:22px;\">Steroid creams are short-term fixes. Moisturizers just mask symptoms. Most products don’t treat the actual fungus — or they leave your skin greasy and irritated.</span></p>"
+      }
+    },
+    "gp_section_580532311960191496": {
+      "type": "gp-section-580532311960191496",
+      "settings": {
+        "checksum": "a57421dc345716d8c39a4df4b473c0f9be3fcf4f53068b65da6664ac47b11dbe_1_1_0_0__1",
+        "ggTpR1KQS2s_text": "<p>Step 1:</p>",
+        "gg5btSK-bk7_text": "<p>Wash &amp; dry the area</p>",
+        "ggG8DW6IuTk_text": "<p>Step 2:</p>",
+        "ggONJYKYTP9_text": "<p>Massage in cream for 2–3 minutes</p>",
+        "ggwUJkgqHjU_text": "<p>Step 3:</p>",
+        "gg3WSP2Uuk0_text": "<p>Use 2–3x daily, until symptoms clear</p>",
+        "ggNRQO9h-1p_text": "<p>Keep using it for a few days after symptoms clear to stop flare-ups from coming back.</p>",
+        "gg3LrkDBlhF_label": "<p>Try New Aura</p>"
+      }
+    },
+    "gp_section_580532311960257032": {
+      "type": "gp-section-580532311960257032",
+      "settings": {
+        "checksum": "dadccd631b60ceef43f271baca2793b77ca48ccd1a26bda1c8c40ae3de68bd60_1_1_0_0__1",
+        "ggGUMWAgKos_text": "Why Men Are Switching<br>to New Aura...",
+        "gg26I_alZRN_text": "<p>Steroid creams are short-term fixes. Moisturizers just mask symptoms. Most products don’t treat the actual fungus — or they leave your skin greasy and irritated.</p>"
+      }
+    },
+    "gp_section_580532311960322568": {
+      "type": "gp-section-580532311960322568",
+      "settings": {
+        "checksum": "e00a2b2dc99c0c33e1c2b9b2106bb183e92faeb36e631dbb1822792fcde16a62_1_1_0_0__1",
+        "gg5UseB0JMc_text": "<span style=\"font-size:18px;\">87,500+ Beards Freed from Fungus</span>",
+        "ggkHZMSyemY_text": "<span style=\"font-size:25px;\">What Men Are Saying</span><br><span style=\"font-size:25px;\">About New Aura</span>"
+      }
+    },
+    "gp_section_580532311960388104": {
+      "type": "gp-section-580532311960388104",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "777b65c5366bd7526972169f10b7987fb0c67b7e48532b331e7d45c47773a935_1_1_0_0__1",
+        "ggM_F3bVryJ_text": "<strong>4.8/5.0</strong> (1,910+ Reviews)",
+        "ggjfV5MA8mt_text": "<span style=\"color:#000000;font-size:25px;\">don't ignore the Dandruff, stop it before it starts spreading.</span>",
+        "ggUN_UkHg7g_text": "<span style=\"color:#001541;font-size:15px;\">Stop ignoring your <strong>scratchy, patchy, and flakey beard, </strong>your beard is trying to tell you something.</span>",
+        "ggZFh00YdZa_text": "<span style=\"color:#000000;font-size:14px;\"><i>Dandruff isn't just dead skin cells, its a fungus that's hard to stop. <strong>NewAura combats against it, stopping the spread and flaking instantly.</strong></i></span>",
+        "ggZII1adw_h_text": "<span style=\"color:#000000;font-size:17px;\">What It NewAura Does:</span>",
+        "ggWljL95e65_childItem_0": "<p>Supports Healthy Beard Growth</p>",
+        "ggWljL95e65_childItem_1": "<p>Kills the Fungus</p>",
+        "ggWljL95e65_childItem_2": "<p>Instantly Gives You A Minty Cooling Relief</p>",
+        "ggWljL95e65_childItem_3": "<p>Clears Flakes and Dandruff</p>",
+        "ggWljL95e65_childItem_4": "<p>Stops the Redness and Irritation&nbsp;</p>",
+        "ggFMB4DTlIm_label": "<p>Get Relief Now</p><p>&nbsp;</p>"
+      }
+    },
+    "gp_section_580532311960453640": {
+      "type": "gp-section-580532311960453640",
+      "settings": {
+        "checksum": "8b1cd48a4fbe11a32da587c104723cc6ee8a5f227a76d78a992bb22639051500_1_1_0_0__1",
+        "ggdXVGRQywa_text": "FAQs",
+        "ggOEeE9uNGU_childItem_0": "<p>How fast does it work?</p>",
+        "ggOEeE9uNGU_childItem_1": "<p>How long do the results last?</p>",
+        "ggOEeE9uNGU_childItem_2": "<p>Can I use it on my face and scalp?</p>",
+        "ggOEeE9uNGU_childItem_3": "<p>Will it make my hair greasy?</p>",
+        "ggOEeE9uNGU_childItem_4": "<p>Is it safe for sensitive skin?</p>",
+        "ggOEeE9uNGU_childItem_5": "<p>Is this a cure or a treatment?</p>",
+        "ggOEeE9uNGU_childItem_6": "<p>Is it safe for daily use?</p>",
+        "ggOEeE9uNGU_childItem_7": "<p>Does it help with beard dandruff?</p>",
+        "ggOEeE9uNGU_childItem_8": "<p>Can I use it with other products?</p>",
+        "ggOEeE9uNGU_childItem_9": "<p>Will this damage my beard or stunt growth?</p>",
+        "ggOEeE9uNGU_childItem_10": "<p>Is it okay to use even when I’m not flaring?</p>",
+        "ggOEeE9uNGU_childItem_11": "<p>Does it help with the redness and burning, not just flakes?</p>",
+        "ggOEeE9uNGU_childItem_12": "<p>What’s actually <i>in</i> this that makes it work?</p>",
+        "ggOEeE9uNGU_childItem_13": "<p>Do I have to stop using my beard oil?</p>",
+        "ggOEeE9uNGU_childItem_14": "<p>Can I bring this when I travel or fly with it?</p>",
+        "ggIWIog-12K_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:13px;\">Most users feel relief after the first use, with visible improvements within 1–3 days.</span></p>",
+        "ggRG6K-sgX__text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggrIHLK9Lek_text": "<p><span style=\"font-size:13px;\">Relief typically lasts up to 1–2 days depending on skin condition and usage consistency.</span></p>",
+        "gg8zpKjxJYy_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggvalNRN6xi_text": "<p><span style=\"font-size:13px;\">Yes! It's safe and effective for the scalp, face, ears, beard, chest, and more.</span></p>",
+        "ggLCnliWsCB_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggZf7gHOKn9_text": "<p><span style=\"font-size:13px;\">No. The formula is smooth and non-greasy—absorbs fast without leaving residue or buildup.</span></p>",
+        "ggBhytzdAaa_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggz3VFn5280_text": "<p><span style=\"font-size:13px;\">Yes. It's made with natural herbal extracts and tested to be gentle on sensitive skin.</span></p>",
+        "ggvKDkD3gt9_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggOAgfoRwtZ_text": "<p><span style=\"font-size:13px;\">This cream is a treatment, not a cure. It helps manage and reduce symptoms with regular use.</span></p>",
+        "ggJ779hsxTk_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggIPm3AOuUG_text": "<p><span style=\"font-size:13px;\">Yep. It’s designed for daily use—even during flare-ups. You can also use it preventatively if you’ve had issues before and want to stay ahead of the game.</span></p>",
+        "ggrGDMDnkv4_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggAsJmVpl5h_text": "<p><span style=\"font-size:13px;\">Absolutely. That flaking under your beard? It's not dryness—it’s usually caused by fungus. This cream starves the fungus and cools the itch.</span></p>",
+        "ggtL5jflSJJ_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggGdMpU3jR2_text": "<p><span style=\"font-size:13px;\">Yes, but avoid heavy oils or greasy balms—they tend to feed the fungus. Pair it with gentle, fragrance-free cleansers or water-based moisturizers if needed.</span></p>",
+        "ggDs3HAVN7i_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggWYmyEcTIR_text": "<p><span style=\"font-size:13px;\">Nope. In fact, it helps protect the skin your beard grows from. Healthy skin = better beard. No harsh alcohols, no stripping agents, and definitely nothing that slows growth.</span></p>",
+        "ggfbMIv-fvA_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggyAln4-L_T_text": "<p><span style=\"font-size:13px;\">Yes. You don’t have to wait for flakes to show up. Use a small amount to keep things balanced and prevent new flare-ups. Works great as a daily calming cream.</span></p>",
+        "ggLddRLubFJ_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggzhIl4fTnt_text": "<p><span style=\"font-size:13px;\">Yes, that’s actually where it shines. It cools the itch, calms the redness, and cuts that inflamed, burning feeling a lot of guys get under their beards. Not just surface-level stuff—deep relief.</span></p>",
+        "ggyR8NifuQW_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggi5TChwbHB_text": "<p><span style=\"font-size:13px;\">It uses a unique blend called Dry-Safe Complex™—which includes antifungal agents and skin-calming ingredients to starve the fungus and soothe your skin. No steroids, no greasy filler.</span></p>",
+        "gg65PS9KT28_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggzo1405h1C_text": "<p><span style=\"font-size:13px;\">If your current oil is making things worse, yes. But once you’re clear, you can test lighter, fragrance-free oils. Just don’t layer them over the cream—they might undo the work.</span></p>",
+        "ggNfQczUcLl_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg_zN88XRWj_text": "<p><span style=\"font-size:13px;\">Yep. It’s 100mL—TSA-friendly. Toss it in your carry-on, gym bag, or dopp kit. No mess, no drama, just quick relief on the go.</span></p>",
+        "gg6VyHF35wP_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"
+      }
+    },
+    "gp_section_580532311960519176": {
+      "type": "gp-section-580532311960519176",
+      "settings": {
+        "checksum": "251477c2bbbd2bb3415616e4c3dcd3e8144b91362731336758ad3e4ba2e1b2dc_1_1_0_0__1",
+        "gg6yH_4tR1p_text": "<span style=\"font-size:39px;\"><strong>it's not just a condition</strong></span><br><span style=\"color:#242872;font-size:39px;\"><i>- it's a parasite</i></span>",
+        "ggVDEZTzX4F_text": "<p><span style=\"color:#0A0A0A;font-size:22px;\"><i><strong>NewAura kills the fungus</strong>, while also moisturizing your skin. Allowing you to have a <u>parasite-free, healthy beard.</u></i></span></p>",
+        "gggpBs9FzrP_text": "<p><span style=\"color:#0A0A0A;font-size:20px;\">There's a <strong>fungus living under you beard</strong>, called Malassezia globosa. It <i>feeds off all the natural oils your skin produces.</i> <strong>Causing you to flake, itch, and develop dandruff. </strong>Which can spread to your face aswell.</span></p>",
+        "ggZkPHHMgN2_label": "<p><span style=\"font-size:22px;\">Kill The Fungus!</span></p>"
+      }
+    },
+    "gp_section_580532311960584712": {
+      "type": "gp-section-580532311960584712",
+      "settings": {
+        "checksum": "ac9f384cfabe2ef39f4227b5e2b3bc548e298f52412a06291d13c1a354e145f4_1_1_0_0__1"
+      }
+    }
+  },
+  "order": [
+    "gp_section_580532311960388104",
+    "gp_section_580532311959863816",
+    "gp_section_580532311959798280",
+    "gp_section_580532311960519176",
+    "gp_section_580532311960191496",
+    "gp_section_580532311959929352",
+    "gp_section_580532311960322568",
+    "gp_section_580532311959994888",
+    "gp_section_580532311960060424",
+    "gp_section_580532311960257032",
+    "gp_section_580532311960125960",
+    "gp_section_580532311960453640",
+    "gp_section_580532311960584712"
+  ]
+}

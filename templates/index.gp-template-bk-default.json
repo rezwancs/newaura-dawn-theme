@@ -1,0 +1,174 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skin Fungus' Worst Nightmare",
+            "heading_size": "h1"
+          }
+        },
+        "text_QBqg3R": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Limited Time Offer Ends June 31st</em>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/best-sellers",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_QBqg3R",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gempages_562294279301497736-e35f3387-d98f-41c6-85e1-386d43e03a42.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_6UibpN": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_k9cYck": {
+          "type": "caption",
+          "settings": {
+            "caption": "instant cooling relief",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_qyXzBf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Started personal. Scaled global.",
+            "heading_size": "h1"
+          }
+        },
+        "text_jtndfd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When I saw how bad my dad’s dermatitis had gotten, it was hard to ignore. After digging into the research, I realized every cream on the market was <em>either a pharmaceutical nightmare or just another overpriced moisturizer. </em></p><p>That’s when I set out to create something better—the <em>world’s first all-in-one antifungal cream that actually targets the root cause.</em></p><h5>- Maksym, Founder</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_k9cYck",
+        "heading_qyXzBf",
+        "text_jtndfd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_jPafTc": {
+      "type": "featured-product",
+      "blocks": {
+        "title_aet84r": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "variant_picker_makVX3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "kaching_bundles_app_block_BK9MKh": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "buy_buttons_rPrKyQ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_aet84r",
+        "variant_picker_makVX3",
+        "kaching_bundles_app_block_BK9MKh",
+        "buy_buttons_rPrKyQ"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "seborrheic-dermatitis-cream",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1750353141ed4d19c4": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_barrage_carousel_eQx8kF": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/barrage-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_barrage_carousel_eQx8kF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_6UibpN",
+    "featured_product_jPafTc",
+    "1750353141ed4d19c4"
+  ]
+}

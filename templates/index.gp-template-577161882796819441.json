@@ -1,0 +1,58 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_577161882813596657": {
+      "settings": {
+        "checksum": "8a734e58572e75e7221c34ef2c4470925e970ccc139d66041d41af2706aae1fa_1_1_0_0__1",
+        "ggGMv2Jg94Y_displayContent": "(Save {percent_discount})",
+        "ggWMRwtWFq4_viewLessText": "Show less",
+        "ggWMRwtWFq4_viewMoreText": "Show more",
+        "ggbT4bHH1nP_outOfStockLabel": "Out Of Stock",
+        "ggbT4bHH1nP_unavailableLabel": "Unavailable"
+      },
+      "type": "gp-section-577161882813596657"
+    },
+    "gp_section_577161882813662193": {
+      "settings": {
+        "checksum": "dbac1109be519d0cde440853920bef40ed0873dffe99782fdc3820e7cd112566_1_1_0_0__1",
+        "gg2oXM19zpy_text": "<p>Free Shipping</p>",
+        "gg5b7_BBn_k_text": "<p>Free shipping worldwide</p>",
+        "ggJ7Qki57wN_text": "<p>Whenever you need</p>",
+        "ggUMnqWgA-1_text": "<p>Secure Packaging</p>",
+        "ggd7NrIV7b7_text": "<p>24/7 Support</p>",
+        "ggfilASvIqB_text": "<p>With product insurance</p>"
+      },
+      "type": "gp-section-577161882813662193"
+    },
+    "gp_section_577161882813727729": {
+      "settings": {
+        "checksum": "7bdafdbfc18c3a4e39c8db06fcf7c6f47df88b415dac669a000156a8467e5883_1_1_0_0__1",
+        "gg-0yoSVPZX_text": "<p>Holistic ingredients designed to calm the flakes, flare ups, and frustration caused by Malassezia fungus.</p>",
+        "ggi16mo_LBE_text": "Soothe Your Beard, Restore Your Confidence",
+        "ggrLdIgmHO3_label": "<p>Shop Now</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-577161882813727729"
+    },
+    "gp_section_577161882813793265": {
+      "settings": {
+        "checksum": "97b3db873d18a3749c38578f05275e948327b6b40ee7d2fe387c5a2000964a8d_1_1_0_0__1"
+      },
+      "type": "gp-section-577161882813793265"
+    }
+  },
+  "order": [
+    "gp_section_577161882813727729",
+    "gp_section_577161882813793265",
+    "gp_section_577161882813596657",
+    "gp_section_577161882813662193"
+  ]
+}

@@ -1,0 +1,278 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_587221447437451833": {
+      "settings": {
+        "checksum": "655af6e22ef88f5014d331b85667d95da1f415a2a4294958a756ff8bddcde0b9_1_1_0_0__1",
+        "gg37yF9Mux1_text": "As Seen In"
+      },
+      "type": "gp-section-587221447437451833"
+    },
+    "gp_section_587221447487783915": {
+      "settings": {
+        "checksum": "1d2b6223f350a37c01e618a7513d5c1ba1b39213887ac4fbab923a903f5c4c23_1_1_0_0__1",
+        "ggGTIs6gyyU_label": "<p>Buy today for $20</p>",
+        "ggIITbK4QuW_text": "1. Clinician Recommended Without the Paycheck",
+        "ggM7s6835YO_text": "<p>New Aura is recommended by hundreds of dermatology professionals across the country who believe in results, not incentives. They trust it enough to recommend it to patients without being paid, sponsored, or pressured. That kind of trust only comes from performance.</p>"
+      },
+      "type": "gp-section-587221447487783915"
+    },
+    "gp_section_587221447554892345": {
+      "settings": {
+        "checksum": "82e145e831d8ee2ba695a9b2bdf051c8c098cfbcb52f6c5b05be131b0f1ecf53_1_1_0_0__1",
+        "ggCy4K4ZJMG_text": "<p>5,000+ 5-Star Reviews</p>",
+        "ggG7rOK2I7a_text": "<p>300,000+ NewAura Customers</p>",
+        "ggeZ2rcmhbq_label": "<p>SHOP NOW</p>",
+        "gggm4k7NMHv_text": "5 Benefits of New Aura That Have Everyone Ditching Their Dandruff Shampoo",
+        "section_preload": "true"
+      },
+      "type": "gp-section-587221447554892345"
+    },
+    "gp_section_587221447722664505": {
+      "settings": {
+        "checksum": "369f78b703216254e10f6a3bd96f8d31608533f7909c764a4e6587742eb5f7bd_1_1_0_0__1",
+        "gg02lrF1xHX_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:18px;\">Most users feel relief after the first use, with visible improvements within 1–3 days.</span></p>",
+        "gg0VNm3UhjV_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg0meVuJpin_text": "<p><span style=\"font-size:18px;\">Yes, that’s actually where it shines. It cools the itch, calms the redness, and cuts that inflamed, burning feeling a lot of guys get under their beards. Not just surface-level stuff—deep relief.</span></p>",
+        "gg0td1RQjUd_text": "NewAura™ Anti-fungal Beard Cream",
+        "gg3Ma12lR6J_text": "<p><span style=\"font-size:18px;\">It uses a unique blend called Dry-Safe Complex™—which includes antifungal agents and skin-calming ingredients to starve the fungus and soothe your skin. No steroids, no greasy filler.</span></p>",
+        "gg4VoGgfEGl_text": "<p><span style=\"font-size:18px;\">Relief typically lasts up to 1–2 days depending on skin condition and usage consistency.</span></p>",
+        "gg9osOB1kT4_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggDEF1qYb-V_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggIsC3eFaf7_text": "<p><span style=\"font-size:18px;\">Yep. It’s 100mL—TSA-friendly. Toss it in your carry-on, gym bag, or dopp kit. No mess, no drama, just quick relief on the go.</span></p>",
+        "ggJwpjTEkk-_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggO8JyzO9hM_text": "<p><span style=\"font-size:18px;\">This cream is a treatment, not a cure. It helps manage and reduce symptoms with regular use.</span></p>",
+        "ggPRKcXxbHN_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggSGTj0IuHK_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggY3A1HVrew_text": "<p><span style=\"font-size:18px;\">Yes, but avoid heavy oils or greasy balms—they tend to feed the fungus. Pair it with gentle, fragrance-free cleansers or water-based moisturizers if needed.</span></p>",
+        "ggY_XVD06cx_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggZTNDO5C7g_text": "<p><span style=\"font-size:18px;\">Yes. You don’t have to wait for flakes to show up. Use a small amount to keep things balanced and prevent new flare-ups. Works great as a daily calming cream.</span></p>",
+        "gg_625BhHFX_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg_bONxS79z_text": "<p><span style=\"font-size:18px;\">No. The formula is smooth and non-greasy—absorbs fast without leaving residue or buildup.</span></p>",
+        "ggbcL8Ygr1__text": "<p><span style=\"font-size:18px;\">Yes! It's safe and effective for the scalp, face, ears, beard, chest, and more.</span></p>",
+        "ggcoqzgJ9tW_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggdV-dRC1iU_text": "<p><span style=\"font-size:18px;\">Nope. In fact, it helps protect the skin your beard grows from. Healthy skin = better beard. No harsh alcohols, no stripping agents, and definitely nothing that slows growth.</span></p>",
+        "ggeOQ2gK6TI_text": "<p><span style=\"font-size:18px;\">Yes. It's made with natural herbal extracts and tested to be gentle on sensitive skin.</span></p>",
+        "ggkXE_IL8Dk_childItem_0": "<p>How fast does it work?</p>",
+        "ggkXE_IL8Dk_childItem_1": "<p>How long do the results last?</p>",
+        "ggkXE_IL8Dk_childItem_10": "<p>Is it okay to use even when I’m not flaring?</p>",
+        "ggkXE_IL8Dk_childItem_11": "<p>Does it help with the redness and burning, not just flakes?</p>",
+        "ggkXE_IL8Dk_childItem_12": "<p>What’s actually <i>in</i> this that makes it work?</p>",
+        "ggkXE_IL8Dk_childItem_13": "<p>Do I have to stop using my beard oil?</p>",
+        "ggkXE_IL8Dk_childItem_14": "<p>Can I bring this when I travel or fly with it?</p>",
+        "ggkXE_IL8Dk_childItem_2": "<p>Can I use it on my face and scalp?</p>",
+        "ggkXE_IL8Dk_childItem_3": "<p>Will it make my hair greasy?</p>",
+        "ggkXE_IL8Dk_childItem_4": "<p>Is it safe for sensitive skin?</p>",
+        "ggkXE_IL8Dk_childItem_5": "<p>Is this a cure or a treatment?</p>",
+        "ggkXE_IL8Dk_childItem_6": "<p>Is it safe for daily use?</p>",
+        "ggkXE_IL8Dk_childItem_7": "<p>Does it help with beard dandruff?</p>",
+        "ggkXE_IL8Dk_childItem_8": "<p>Can I use it with other products?</p>",
+        "ggkXE_IL8Dk_childItem_9": "<p>Will this damage my beard or stunt growth?</p>",
+        "ggljnm2Gq8z_text": "Frequently Asked Questions",
+        "ggn1vmx-TyZ_text": "<p><span style=\"font-size:18px;\">Absolutely. That flaking under your beard? It's not dryness—it’s usually caused by fungus. This cream starves the fungus and cools the itch.</span></p>",
+        "ggrpuTFVieA_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggrqPnQ2mkE_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggsBVckANFD_text": "<p><span style=\"font-size:18px;\">If your current oil is making things worse, yes. But once you’re clear, you can test lighter, fragrance-free oils. Just don’t layer them over the cream—they might undo the work.</span></p>",
+        "ggugGob9udH_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gguyWb366oP_text": "<p><span style=\"font-size:18px;\">Yep. It’s designed for daily use—even during flare-ups. You can also use it preventatively if you’ve had issues before and want to stay ahead of the game.</span></p>",
+        "ggvqS3X7zZu_label": "<p>Learn More</p>",
+        "ggvr7H6OKpW_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggwRsD9ULTF_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggwhcIDMFrV_text": "Buy 1 Get 1 Free - &nbsp;$40",
+        "ggxdtumwUUT_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"
+      },
+      "type": "gp-section-587221447722664505"
+    },
+    "gp_section_587224142781088313": {
+      "settings": {
+        "checksum": "c350efbe3e432f5017e3fa8f6b429a47f4f07fe607a3d28700d838a75725e82c_1_1_0_0__1",
+        "ggGCz72mYTH_text": "Free Shipping on SUBSCRIPTION ORDERS"
+      },
+      "type": "gp-section-587224142781088313"
+    },
+    "gp_section_587225201255645753": {
+      "settings": {
+        "checksum": "69e965c0abfdeb714058789c85beacbc9cd92b7db03a47684a99c7f35d7a5b1e_1_1_0_0__1",
+        "gg6PMqbXmFF_text": "<p>Most shampoos do more harm than good — packed with synthetic fragrance and harsh chemicals that strip away your skin’s natural barrier.</p><p>&nbsp;</p><p>So we took a different route: a science-backed formula that works with your skin, not against it.</p><p><br><strong>Salicylic Acid </strong>gently exfoliates buildup so antifungal ingredients like <strong>Piroctone Olamine </strong>can reach the source of flakes. <strong>Niacinamide, Panthenol, and Allantoin </strong>soothe irritation and strengthen your barrier so your scalp stays calm and hydrated. And <strong>natural botanicals </strong>— Centella Asiatica, Sophora Flavescens, Artemisia Argyi, and Cnidium Monnieri — help balance oil, reduce itching, and defend against flare-ups.</p><p>&nbsp;</p><p>It's more than just a flake-free face, it's healthier skin too.</p>",
+        "ggbW5YytuGZ_text": "2. Traditional Haircare Is Mostly Fluff"
+      },
+      "type": "gp-section-587225201255645753"
+    },
+    "gp_section_587225418218603370": {
+      "settings": {
+        "checksum": "a473ff6e5302ab99d0afa522c6a4673470f5af0b1eeb006dfba886c8b9971740_1_1_0_0__1",
+        "ggBMl25qzft_label": "<p>Buy today for $20</p>",
+        "ggUX32bUlNP_text": "3. Paraben-Free + Cruelty-Free",
+        "ggaSRql7Ls__text": "<p>We cut out the harmful stuff—no parabens, no animal testing, no shortcuts. Our formula is designed to work hard while staying clean. Because what you don’t put on your face matters just as much as what you do.</p>"
+      },
+      "type": "gp-section-587225418218603370"
+    },
+    "gp_section_587225959954908139": {
+      "settings": {
+        "checksum": "d74ae51f9a4ab8976bb53512076974e42107e0873d0966a50a9c1730b8a4f221_1_1_0_0__1",
+        "gg0XrEya85h_text": "<p>Salicylic Acid clears buildup so Piroctone Olamine can reach the fungus hiding beneath the surface.<br>Niacinamide, Panthenol, and Allantoin soothe irritation, strengthen your barrier, and restore moisture.<br>And our botanical complex — Centella Asiatica, Sophora Flavescens, Artemisia Argyi, and Cnidium Monnieri — calms inflammation, balances oil, and helps prevent future flare-ups.</p><p><br>The result: relief that lasts because your skin finally feels balanced, not stripped.</p>",
+        "ggq04L9ICjN_text": "4. Powerful Ingredients, Gentle on Your Face"
+      },
+      "type": "gp-section-587225959954908139"
+    },
+    "gp_section_587226166633431609": {
+      "settings": {
+        "checksum": "637dc602c1e88b135307b4716fbfab0fd5b38fd06e62d57f160a5f61c99de4a9_1_1_0_0__1",
+        "ggIxbdYMVzh_text": "<p>Most men don’t realize how much their beard gives away. When the skin beneath looks dull, tight, or flaking, it makes the whole face feel older — tired, even when you’re not. But when your beard looks clean, soft, and healthy, everything changes. You look more put-together without trying. You feel confident up close — no itch, no white dust, no second-guessing.</p><p>&nbsp;</p><p>Because this isn’t about vanity — it’s about looking like the man who takes care of himself, effortless.</p>",
+        "ggR4BNpi5-q_label": "<p>Buy today for $20</p>",
+        "gga-g8ah5t-_text": "5. Your Beard Ages 6x Faster Than Your Face"
+      },
+      "type": "gp-section-587226166633431609"
+    },
+    "gp_section_587227251280446009": {
+      "settings": {
+        "checksum": "82481c0fdca34e29be89e1f7d412cb708c77dab1945d6260bce62d65f533742f_1_1_0_0__1",
+        "ggJU4najmcF_text": "<p>5,000+ 5-Star Reviews</p>",
+        "ggVifY_lFfo_text": "<p>300,000+ New Aura Customers</p>",
+        "ggXDse9F35k_label": "<p>SHOP NOW</p>",
+        "ggsaVMF6X0C_text": "5 Benefits of New Aura That Have Everyone Ditching Their Dandruff Shampoo"
+      },
+      "type": "gp-section-587227251280446009"
+    },
+    "gp_section_587227267956999018": {
+      "settings": {
+        "checksum": "6f1784e8a20f477f7eb402e9f77a1258337aa857336ef49b8e66386c245d1d4f_1_1_0_0__1",
+        "ggo8TvaPD7l_text": "As Seen In"
+      },
+      "type": "gp-section-587227267956999018"
+    },
+    "gp_section_587227285086536683": {
+      "settings": {
+        "checksum": "8943fba5b2b2ac8df38e52db02f1993c30ef3f9b4fa1e72240080a5bb09cb820_1_1_0_0__1",
+        "ggybF3Pzto8_text": "Free Shipping on SUBSCRIPTION ORDERS"
+      },
+      "type": "gp-section-587227285086536683"
+    },
+    "gp_section_587227306360046571": {
+      "settings": {
+        "checksum": "3f484ca752381144aeb50b80f46f0d537f9d7df9633f971b663536326fe894e6_1_1_0_0__1",
+        "gg6G8pW3Vt3_text": "1. Clinician Recommended Without the Paycheck",
+        "ggUUVLkDCUd_label": "<p>Try today for $20</p>",
+        "ggwe0t8O_Av_text": "<p>New Aura is recommended by hundreds of dermatology professionals across the country who believe in results, not incentives. They trust it enough to recommend it to patients without being paid, sponsored, or pressured. That kind of trust only comes from performance.</p>"
+      },
+      "type": "gp-section-587227306360046571"
+    },
+    "gp_section_587227329009288171": {
+      "settings": {
+        "checksum": "ccd6446b83484bdab2bc2fa4afa09c46255f25e3f1552aa0f365d4f284f6731f_1_1_0_0__1",
+        "gg2vVECkriU_text": "<p>Most shampoos do more harm than good — packed with synthetic fragrance and harsh chemicals that strip away your skin’s natural barrier.</p><p>&nbsp;</p><p>So we took a different route: a science-backed formula that works with your skin, not against it.</p><p><br><strong>Salicylic Acid </strong>gently exfoliates buildup so antifungal ingredients like <strong>Piroctone Olamine </strong>can reach the source of flakes. <strong>Niacinamide, Panthenol, and Allantoin </strong>soothe irritation and strengthen your barrier so your scalp stays calm and hydrated. And <strong>natural botanicals </strong>— Centella Asiatica, Sophora Flavescens, Artemisia Argyi, and Cnidium Monnieri — help balance oil, reduce itching, and defend against flare-ups.</p><p>&nbsp;</p><p>It's more than just a flake-free face, it's healthier skin too.</p>",
+        "ggiAHEDHGLe_text": "2. Traditional Haircare Is Mostly Fluff"
+      },
+      "type": "gp-section-587227329009288171"
+    },
+    "gp_section_587227352900043755": {
+      "settings": {
+        "checksum": "7fe62358a5ad625c12873cd671d8d585cb2d17d8c363ad6c63ff795894f3ddb4_1_1_0_0__1",
+        "gg7wLHbMd1F_text": "<p>We cut out the harmful stuff—no parabens, no animal testing, no shortcuts. Our formula is designed to work hard while staying clean. Because what you don’t put on your face matters just as much as what you do.</p>",
+        "ggaVzs5BDti_label": "<p>Try today for $20</p>",
+        "ggoal0SDxyJ_text": "3. Paraben-Free + Cruelty-Free"
+      },
+      "type": "gp-section-587227352900043755"
+    },
+    "gp_section_587227370449011562": {
+      "settings": {
+        "checksum": "0714ad29b21d0f38924fbd0fe51e2eaf27f8155b0eb6325d703c568a1328f596_1_1_0_0__1",
+        "ggOKyiLTHjy_text": "4. Powerful Ingredients, Gentle on Your Face",
+        "ggaIogz18zX_text": "<p>Salicylic Acid clears buildup so Piroctone Olamine can reach the fungus hiding beneath the surface.<br>Niacinamide, Panthenol, and Allantoin soothe irritation, strengthen your barrier, and restore moisture.<br>And our botanical complex — Centella Asiatica, Sophora Flavescens, Artemisia Argyi, and Cnidium Monnieri — calms inflammation, balances oil, and helps prevent future flare-ups.</p><p><br>The result: relief that lasts because your skin finally feels balanced, not stripped.</p>"
+      },
+      "type": "gp-section-587227370449011562"
+    },
+    "gp_section_587227405546947242": {
+      "settings": {
+        "checksum": "2ca4204b2709387e4845aae2439f898e67dfdfb86d54225effe9e17e92a30cf0_1_1_0_0__1",
+        "gg-ZDLGyA3f_text": "<p>Most men don’t realize how much their beard gives away. When the skin beneath looks dull, tight, or flaking, it makes the whole face feel older — tired, even when you’re not. But when your beard looks clean, soft, and healthy, everything changes. You look more put-together without trying. You feel confident up close — no itch, no white dust, no second-guessing.</p><p>&nbsp;</p><p>Because this isn’t about vanity — it’s about looking like the man who takes care of himself, effortles</p>",
+        "ggV40WTeoX__label": "<p>Try today for $20</p>",
+        "ggkZUOvOrf-_text": "5. Your Beard Ages 6x Faster Than Your Face"
+      },
+      "type": "gp-section-587227405546947242"
+    },
+    "gp_section_587227425159513067": {
+      "settings": {
+        "checksum": "492edcd07ae3fe13a0847952dad5ea8c8f6a92c77eae1eae0c077a5dccdbf0f6_1_1_0_0__1",
+        "gg0famPMd79_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg2QboGVvMf_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg5ij0tmW0e_label": "<p>Learn More</p>",
+        "gg7bDGhKJIY_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg7dVPLnfvz_text": "<p><span style=\"font-size:18px;\">This cream is a treatment, not a cure. It helps manage and reduce symptoms with regular use.</span></p>",
+        "ggCwPsUf4c-_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggEaufEtq0W_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggF6FBsVZng_text": "<p><span style=\"font-size:18px;\">Yes. It's made with natural herbal extracts and tested to be gentle on sensitive skin.</span></p>",
+        "ggH08A402wJ_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggHicjDXw9Q_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggJ7kutctVS_text": "<p><span style=\"font-size:18px;\">If your current oil is making things worse, yes. But once you’re clear, you can test lighter, fragrance-free oils. Just don’t layer them over the cream—they might undo the work.</span></p>",
+        "ggO9eIpHWNC_text": "<p><span style=\"font-size:18px;\">Yes, that’s actually where it shines. It cools the itch, calms the redness, and cuts that inflamed, burning feeling a lot of guys get under their beards. Not just surface-level stuff—deep relief.</span></p>",
+        "ggPAsuwlY2U_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggQzY45vIZJ_text": "<p><span style=\"font-size:18px;\">Yep. It’s designed for daily use—even during flare-ups. You can also use it preventatively if you’ve had issues before and want to stay ahead of the game.</span></p>",
+        "ggRScr0LTfU_text": "<p><span style=\"font-size:18px;\">Yes! It's safe and effective for the scalp, face, ears, beard, chest, and more.</span></p>",
+        "ggUwuO5RRzx_text": "<p><span style=\"font-size:18px;\">It uses a unique blend called Dry-Safe Complex™—which includes antifungal agents and skin-calming ingredients to starve the fungus and soothe your skin. No steroids, no greasy filler.</span></p>",
+        "ggV96VjlhID_text": "<p><span style=\"font-size:18px;\">Absolutely. That flaking under your beard? It's not dryness—it’s usually caused by fungus. This cream starves the fungus and cools the itch.</span></p>",
+        "ggWu1N2Qwzu_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:18px;\">Most users feel relief after the first use, with visible improvements within 1–3 days.</span></p>",
+        "ggZVaagLycd_text": "<p><span style=\"font-size:18px;\">Yes. You don’t have to wait for flakes to show up. Use a small amount to keep things balanced and prevent new flare-ups. Works great as a daily calming cream.</span></p>",
+        "gg_mfwsVZT8_text": "<p><span style=\"font-size:18px;\">No. The formula is smooth and non-greasy—absorbs fast without leaving residue or buildup.</span></p>",
+        "gga29YQmrHL_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gga6ptJ1bN3_text": "Buy 1 Get 1 Free - &nbsp;$40",
+        "gganStRRFaP_text": "Frequently Asked Questions",
+        "ggicNUpFrzE_childItem_0": "<p>How fast does it work?</p>",
+        "ggicNUpFrzE_childItem_1": "<p>How long do the results last?</p>",
+        "ggicNUpFrzE_childItem_10": "<p>Is it okay to use even when I’m not flaring?</p>",
+        "ggicNUpFrzE_childItem_11": "<p>Does it help with the redness and burning, not just flakes?</p>",
+        "ggicNUpFrzE_childItem_12": "<p>What’s actually <i>in</i> this that makes it work?</p>",
+        "ggicNUpFrzE_childItem_13": "<p>Do I have to stop using my beard oil?</p>",
+        "ggicNUpFrzE_childItem_14": "<p>Can I bring this when I travel or fly with it?</p>",
+        "ggicNUpFrzE_childItem_2": "<p>Can I use it on my face and scalp?</p>",
+        "ggicNUpFrzE_childItem_3": "<p>Will it make my hair greasy?</p>",
+        "ggicNUpFrzE_childItem_4": "<p>Is it safe for sensitive skin?</p>",
+        "ggicNUpFrzE_childItem_5": "<p>Is this a cure or a treatment?</p>",
+        "ggicNUpFrzE_childItem_6": "<p>Is it safe for daily use?</p>",
+        "ggicNUpFrzE_childItem_7": "<p>Does it help with beard dandruff?</p>",
+        "ggicNUpFrzE_childItem_8": "<p>Can I use it with other products?</p>",
+        "ggicNUpFrzE_childItem_9": "<p>Will this damage my beard or stunt growth?</p>",
+        "ggmoeVQci3A_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggoNIQ4y9MK_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggoSwgE4oEs_text": "<p><span style=\"font-size:18px;\">Relief typically lasts up to 1–2 days depending on skin condition and usage consistency.</span></p>",
+        "ggqwHGxBp1Q_text": "NewAura™ Anti-Fungal Beard Cream",
+        "ggtFzxLhv4d_text": "<p><span style=\"font-size:18px;\">Nope. In fact, it helps protect the skin your beard grows from. Healthy skin = better beard. No harsh alcohols, no stripping agents, and definitely nothing that slows growth.</span></p>",
+        "ggueiFJChc1_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggv83JNhhut_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggx6D__lHil_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggxqgb_auFG_text": "<p><span style=\"font-size:18px;\">Yes, but avoid heavy oils or greasy balms—they tend to feed the fungus. Pair it with gentle, fragrance-free cleansers or water-based moisturizers if needed.</span></p>",
+        "ggz0WxPwmKy_text": "<p><span style=\"font-size:18px;\">Yep. It’s 100mL—TSA-friendly. Toss it in your carry-on, gym bag, or dopp kit. No mess, no drama, just quick relief on the go.</span></p>",
+        "ggzfyBHIBi5_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"
+      },
+      "type": "gp-section-587227425159513067"
+    }
+  },
+  "order": [
+    "gp_section_587221447554892345",
+    "gp_section_587227251280446009",
+    "gp_section_587221447437451833",
+    "gp_section_587227267956999018",
+    "gp_section_587224142781088313",
+    "gp_section_587227285086536683",
+    "gp_section_587221447487783915",
+    "gp_section_587227306360046571",
+    "gp_section_587225201255645753",
+    "gp_section_587227329009288171",
+    "gp_section_587225418218603370",
+    "gp_section_587227352900043755",
+    "gp_section_587225959954908139",
+    "gp_section_587227370449011562",
+    "gp_section_587226166633431609",
+    "gp_section_587227405546947242",
+    "gp_section_587221447722664505",
+    "gp_section_587227425159513067"
+  ]
+}

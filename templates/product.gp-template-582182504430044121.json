@@ -1,0 +1,230 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_582182504530707417": {
+      "type": "gp-section-582182504530707417",
+      "blocks": {
+        "gp_app_kaching-bundles_gb9GsKSyD8": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{ product }}"
+          }
+        }
+      },
+      "block_order": [
+        "gp_app_kaching-bundles_gb9GsKSyD8"
+      ],
+      "settings": {
+        "section_preload": "true",
+        "checksum": "65278316ae7862df4c6f2ca60a10581f31047f364e1a5c91a8a275a458464fd4_1_1_0_0__1",
+        "ggFqaGuwbCM_text": "Powered by 8 botanical extracts that fight fungus, soothe skin, and restore your skin barrier.",
+        "ggeEWDOIBuB_label": "ADD TO CART",
+        "ggeEWDOIBuB_outOfStockLabel": "Out Of Stock",
+        "ggeEWDOIBuB_unavailableLabel": "Unavailable",
+        "ggfQYyxLaF3_childItem_0": "<p>Description</p>",
+        "ggfQYyxLaF3_childItem_1": "<p>How to use</p>",
+        "ggfQYyxLaF3_childItem_2": "<p>Shipping &amp; returns</p>",
+        "ggjZtsEnByl_text": "<p><strong>The New Aura Knockout Combo:</strong><br>Our calming herbal treatment cream (powered by 9 targeted botanicals like Smilax, Artemisia, and Dictamni Cortex) paired with our scalp-balancing shampoo formulated with pyrithione zinc — not the watered-down stuff — works in tandem to knock back flakes, cool the itch, and restore your skin barrier.<br><br>Unlike harsh drugstore combos, we treat both the fungal root and the inflammation fallout — with ingredients your scalp actually wants.</p>",
+        "ggGcJUd55ki_text": "<p>1. Wash the affected area with warm water and pat dry.</p><p>2. Scoop a small amount of New Aura cream and massage it in for 2–3 minutes using circular motions.</p><p>3. Let your skin absorb it. No need to rinse.</p><p>4. Use 2–3 times daily — and keep going for a few days <i>after</i> symptoms fade to stop flare-ups from sneaking back in.</p><p><br><strong>PRO TIP:</strong><br>Use after the shower when your skin is warm and pores are open — it soaks in better and hits deeper.</p>",
+        "gg8u__ItKAI_text": "<p><strong>120-Day Trial - It Works or You Don't Pay</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:12px;\">Try New Aura for up to 120 days. If you’re not seeing results, we’ll give you your money back. No hassle, no fine print, no weird hoops to jump through. Just real results — or a full refund.</span><br><br><strong>Free Reliable &amp; Secure Delivery:</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:12px;\">We ship out within 48 hours — straight from our hands to your doorstep. Your order is tracked, handled with care, and delivered through your local postal service. Most customers receive their package in 6–15 business days, no matter where they are in the world.</span></p>"
+      }
+    },
+    "gp_section_582182504530772953": {
+      "type": "gp-section-582182504530772953",
+      "settings": {
+        "checksum": "87d6ed3bc02ea0b5d18d581f691c3783d4a46e511d398862d8289ec113caeb68_1_1_0_0__1",
+        "ggYduzdgoTT_text": "<span style=\"background-color:rgba(255,255,255,0.77);font-size:17px;\">87,500+ Beards Freed from Fungus</span>",
+        "gguTzaPax8__text": "<span style=\"background-color:rgba(255,255,255,0.77);font-size:23px;\"><i><u>87,500+ Beards Freed from Fungus</u></i></span>",
+        "ggS_wKdD6c1_text": "<span style=\"font-size:47px;\">What Men Are Saying</span><br><span style=\"font-size:47px;\">About New Aura</span>",
+        "ggqnCzGBdev_text": "<span style=\"font-size:28px;\">What Men Are Saying</span><br><span style=\"font-size:28px;\">About New Aura</span>"
+      }
+    },
+    "gp_section_582182504530838489": {
+      "type": "gp-section-582182504530838489",
+      "settings": {
+        "checksum": "48b095ad3e5b0a130e05a7d5039ac3d9087ce2757c5d2d69294bef6e47affc7f_1_1_0_0__1",
+        "ggdXVGRQywa_text": "FAQs",
+        "ggF2a3Q2R5M_text": "<span style=\"font-size:46px;\">FAQs</span>",
+        "ggGFuQQs6TG_childItem_0": "<p>How fast does it work?</p>",
+        "ggGFuQQs6TG_childItem_1": "<p>How long do the results last?</p>",
+        "ggGFuQQs6TG_childItem_2": "<p>Can I use it on my face and scalp?</p>",
+        "ggGFuQQs6TG_childItem_3": "<p>Will it make my hair greasy?</p>",
+        "ggGFuQQs6TG_childItem_4": "<p>Is it safe for sensitive skin?</p>",
+        "ggGFuQQs6TG_childItem_5": "<p>Is this a cure or a treatment?</p>",
+        "ggGFuQQs6TG_childItem_6": "<p>Is it safe for daily use?</p>",
+        "ggGFuQQs6TG_childItem_7": "<p>Does it help with beard dandruff?</p>",
+        "ggGFuQQs6TG_childItem_8": "<p>Can I use it with other products?</p>",
+        "ggGFuQQs6TG_childItem_9": "<p>Will this damage my beard or stunt growth?</p>",
+        "ggGFuQQs6TG_childItem_10": "<p>Is it okay to use even when I’m not flaring?</p>",
+        "ggGFuQQs6TG_childItem_11": "<p>Does it help with the redness and burning, not just flakes?</p>",
+        "ggGFuQQs6TG_childItem_12": "<p>What’s actually <i>in</i> this that makes it work?</p>",
+        "ggGFuQQs6TG_childItem_13": "<p>Do I have to stop using my beard oil?</p>",
+        "ggGFuQQs6TG_childItem_14": "<p>Can I bring this when I travel or fly with it?</p>",
+        "gg66JMqRRcZ_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:13px;\">Most users feel relief after the first use, with visible improvements within 1–3 days.</span></p>",
+        "ggeNe3GERsC_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggWHAyNryj1_text": "<p><span style=\"font-size:13px;\">Relief typically lasts up to 1–2 days depending on skin condition and usage consistency.</span></p>",
+        "ggfmiZnXdYg_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg80A7kAE_M_text": "<p><span style=\"font-size:13px;\">Yes! It's safe and effective for the scalp, face, ears, beard, chest, and more.</span></p>",
+        "ggkdhSyjSM0_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg9TMtb_h1q_text": "<p><span style=\"font-size:13px;\">No. The formula is smooth and non-greasy—absorbs fast without leaving residue or buildup.</span></p>",
+        "ggSlGqp4Y2J_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggrAAnU1hx0_text": "<p><span style=\"font-size:13px;\">Yes. It's made with natural herbal extracts and tested to be gentle on sensitive skin.</span></p>",
+        "ggjeRxtodOl_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggh1FxKL6_p_text": "<p><span style=\"font-size:13px;\">This cream is a treatment, not a cure. It helps manage and reduce symptoms with regular use.</span></p>",
+        "ggqWbW2zwzO_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gghuY63ofjp_text": "<p><span style=\"font-size:13px;\">Yep. It’s designed for daily use—even during flare-ups. You can also use it preventatively if you’ve had issues before and want to stay ahead of the game.</span></p>",
+        "gg3eqnrLPub_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggcrOq_4ydR_text": "<p><span style=\"font-size:13px;\">Absolutely. That flaking under your beard? It's not dryness—it’s usually caused by fungus. This cream starves the fungus and cools the itch.</span></p>",
+        "ggC7DzDn114_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggMU7xrUfts_text": "<p><span style=\"font-size:13px;\">Yes, but avoid heavy oils or greasy balms—they tend to feed the fungus. Pair it with gentle, fragrance-free cleansers or water-based moisturizers if needed.</span></p>",
+        "ggwUr_XPdXj_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gglDWkyX7ox_text": "<p><span style=\"font-size:13px;\">Nope. In fact, it helps protect the skin your beard grows from. Healthy skin = better beard. No harsh alcohols, no stripping agents, and definitely nothing that slows growth.</span></p>",
+        "ggTPSl6wjt-_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggaLutD_sny_text": "<p><span style=\"font-size:13px;\">Yes. You don’t have to wait for flakes to show up. Use a small amount to keep things balanced and prevent new flare-ups. Works great as a daily calming cream.</span></p>",
+        "ggrGr8tI6Tp_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggol4QZjd-M_text": "<p><span style=\"font-size:13px;\">Yes, that’s actually where it shines. It cools the itch, calms the redness, and cuts that inflamed, burning feeling a lot of guys get under their beards. Not just surface-level stuff—deep relief.</span></p>",
+        "ggcB6Ii9ezZ_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg58BFa6_vN_text": "<p><span style=\"font-size:13px;\">It uses a unique blend called Dry-Safe Complex™—which includes antifungal agents and skin-calming ingredients to starve the fungus and soothe your skin. No steroids, no greasy filler.</span></p>",
+        "ggyaDtaTDiL_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggp8zbiZFGT_text": "<p><span style=\"font-size:13px;\">If your current oil is making things worse, yes. But once you’re clear, you can test lighter, fragrance-free oils. Just don’t layer them over the cream—they might undo the work.</span></p>",
+        "gggVnqMkxaU_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggKBQcj1Efe_text": "<p><span style=\"font-size:13px;\">Yep. It’s 100mL—TSA-friendly. Toss it in your carry-on, gym bag, or dopp kit. No mess, no drama, just quick relief on the go.</span></p>",
+        "ggdzdE3Anpx_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggvMk4778VF_childItem_0": "<p>How fast does it work?</p>",
+        "ggvMk4778VF_childItem_1": "<p>How long do the results last?</p>",
+        "ggvMk4778VF_childItem_2": "<p>Can I use it on my face and scalp?</p>",
+        "ggvMk4778VF_childItem_3": "<p>Will it make my hair greasy?</p>",
+        "ggvMk4778VF_childItem_4": "<p>Is it safe for sensitive skin?</p>",
+        "ggvMk4778VF_childItem_5": "<p>Is this a cure or a treatment?</p>",
+        "ggvMk4778VF_childItem_6": "<p>Is it safe for daily use?</p>",
+        "ggvMk4778VF_childItem_7": "<p>Does it help with beard dandruff?</p>",
+        "ggvMk4778VF_childItem_8": "<p>Can I use it with other products?</p>",
+        "ggvMk4778VF_childItem_9": "<p>Will this damage my beard or stunt growth?</p>",
+        "ggvMk4778VF_childItem_10": "<p>Is it okay to use even when I’m not flaring?</p>",
+        "ggvMk4778VF_childItem_11": "<p>Does it help with the redness and burning, not just flakes?</p>",
+        "ggvMk4778VF_childItem_12": "<p>What’s actually <i>in</i> this that makes it work?</p>",
+        "ggvMk4778VF_childItem_13": "<p>Do I have to stop using my beard oil?</p>",
+        "ggvMk4778VF_childItem_14": "<p>Can I bring this when I travel or fly with it?</p>",
+        "ggsCkhkirpp_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-size:18px;\">Most users feel relief after the first use, with visible improvements within 1–3 days.</span></p>",
+        "ggzKb-SjmiL_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggVD9AMBF9t_text": "<p><span style=\"font-size:18px;\">Relief typically lasts up to 1–2 days depending on skin condition and usage consistency.</span></p>",
+        "ggA9YYCUz2I_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg-sWLYScSL_text": "<p><span style=\"font-size:18px;\">Yes! It's safe and effective for the scalp, face, ears, beard, chest, and more.</span></p>",
+        "ggg6yGHvsJm_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggGnOcK67_x_text": "<p><span style=\"font-size:18px;\">No. The formula is smooth and non-greasy—absorbs fast without leaving residue or buildup.</span></p>",
+        "ggWplsL0NI7_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggHOr6Z5wpF_text": "<p><span style=\"font-size:18px;\">Yes. It's made with natural herbal extracts and tested to be gentle on sensitive skin.</span></p>",
+        "ggPwdgTLQP5_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggGFiYwCSQX_text": "<p><span style=\"font-size:18px;\">This cream is a treatment, not a cure. It helps manage and reduce symptoms with regular use.</span></p>",
+        "ggeqdi5dHBm_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gggAX4KTD2S_text": "<p><span style=\"font-size:18px;\">Yep. It’s designed for daily use—even during flare-ups. You can also use it preventatively if you’ve had issues before and want to stay ahead of the game.</span></p>",
+        "ggeiGulqN4e_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggIstCAb1Sy_text": "<p><span style=\"font-size:18px;\">Absolutely. That flaking under your beard? It's not dryness—it’s usually caused by fungus. This cream starves the fungus and cools the itch.</span></p>",
+        "ggn7Tvb0jDh_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggYfU1nPCoB_text": "<p><span style=\"font-size:18px;\">Yes, but avoid heavy oils or greasy balms—they tend to feed the fungus. Pair it with gentle, fragrance-free cleansers or water-based moisturizers if needed.</span></p>",
+        "ggkw6JymLZT_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggx0HDi3OoN_text": "<p><span style=\"font-size:18px;\">Nope. In fact, it helps protect the skin your beard grows from. Healthy skin = better beard. No harsh alcohols, no stripping agents, and definitely nothing that slows growth.</span></p>",
+        "ggY4CnmXNKF_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "gg0L9wBPPOT_text": "<p><span style=\"font-size:18px;\">Yes. You don’t have to wait for flakes to show up. Use a small amount to keep things balanced and prevent new flare-ups. Works great as a daily calming cream.</span></p>",
+        "ggmH7g3ICEi_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggW4YsWCeS4_text": "<p><span style=\"font-size:18px;\">Yes, that’s actually where it shines. It cools the itch, calms the redness, and cuts that inflamed, burning feeling a lot of guys get under their beards. Not just surface-level stuff—deep relief.</span></p>",
+        "ggYaCj_eX3x_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggN172CPx9n_text": "<p><span style=\"font-size:18px;\">It uses a unique blend called Dry-Safe Complex™—which includes antifungal agents and skin-calming ingredients to starve the fungus and soothe your skin. No steroids, no greasy filler.</span></p>",
+        "ggZajOe_F2-_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggPan68kqdk_text": "<p><span style=\"font-size:18px;\">If your current oil is making things worse, yes. But once you’re clear, you can test lighter, fragrance-free oils. Just don’t layer them over the cream—they might undo the work.</span></p>",
+        "ggcY4ro857I_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
+        "ggLiUXbRUNn_text": "<p><span style=\"font-size:18px;\">Yep. It’s 100mL—TSA-friendly. Toss it in your carry-on, gym bag, or dopp kit. No mess, no drama, just quick relief on the go.</span></p>",
+        "ggldm1qIIim_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"
+      }
+    },
+    "gp_section_582182504530904025": {
+      "type": "gp-section-582182504530904025",
+      "settings": {
+        "checksum": "a486939936faf0cf5f0a1fc1200f3ea6c0a7a2dba3bf7656c5adbf863216500b_1_1_0_0__1",
+        "ggfjMCABz44_text": "<p><span style=\"color:#0A0A0A;font-size:20px;\"><i>New Aura uses <strong>8 plant-powered extracts</strong> that work together to <u>calm irritation, stop itching, fight fungal buildup, and speed up healing.&nbsp;</u></i></span></p><p>&nbsp;</p><p><span style=\"color:#0A0A0A;font-size:20px;\"><i>Each ingredient targets a root cause, so you’re not just masking the symptoms, you’re fixing the problem at the source.</i></span></p>",
+        "ggIZ4sn1Yyj_childItem_0": "<p><span style=\"font-size:22px;\">View Ingredients</span></p>",
+        "ggcjcXwF4hi_text": "<p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Artemisia Extract</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Calms irritation and reduces redness.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Borneolum Syntheticum</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Enhances absorption and soothes inflammation.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Sophora Flavescens</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Fights bacteria and balances oil production.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Cnidium Monnieri</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Stops itching and clears up skin flare-ups.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Kochai Scoparia</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Cools and calms heat-sensitive, inflamed skin.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Dictamni Cortex</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Targets fungal buildup &amp; soothes flared areas.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Smilax Glabra Roxb</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Detoxifies and helps reduce stubborn flare-ups.</span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\"><strong>Solidago Decurrens</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:20px;\">-Speeds healing and reduces flaking.</span></p>",
+        "gg69eJDowNu_text": "Why Men Are Switching<br>to New Aura...",
+        "ggcwkQlHpgj_text": "<p><span style=\"font-size:20px;\">Steroid creams are short-term fixes. Moisturizers just mask symptoms. Most products don’t treat the actual fungus — or they leave your skin greasy and irritated.</span></p>",
+        "ggZNar0b1e__label": "<p>Try New Aura</p>",
+        "ggJab5ntAAJ_text": "<p><span style=\"color:#0A0A0A;font-size:15px;\"><i>New Aura uses <strong>8 plant-powered extracts</strong> that work together to <u>calm irritation, stop itching, fight fungal buildup, and speed up healing.&nbsp;</u></i></span></p><p>&nbsp;</p><p><span style=\"color:#0A0A0A;font-size:15px;\"><i>Each ingredient targets a root cause, so you’re not just masking the symptoms, you’re fixing the problem at the source.</i></span></p>",
+        "ggeKmH_nIoR_childItem_0": "<p>View Ingredients</p>",
+        "ggnDLbaDgn0_text": "<p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Artemisia Extract</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Calms irritation and reduces redness.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Borneolum Syntheticum</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Enhances absorption and soothes inflammation.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Sophora Flavescens</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Fights bacteria and balances oil production.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Cnidium Monnieri</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Stops itching and clears up skin flare-ups.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Kochai Scoparia</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Cools and calms heat-sensitive, inflamed skin.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Dictamni Cortex</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Targets fungal buildup &amp; soothes flared areas.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Smilax Glabra Roxb</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Detoxifies and helps reduce stubborn flare-ups.</span></p><p><span style=\"color:rgb(0,0,0);font-size:16px;\"><strong>Solidago Decurrens</strong></span></p><p><span style=\"color:rgb(0,0,0);font-size:13px;\">-Speeds healing and reduces flaking.</span></p>",
+        "ggA95oEMKbw_text": "Why Men Are Switching<br>to New Aura...",
+        "gg94-Q9R85E_text": "<p>Steroid creams are short-term fixes. Moisturizers just mask symptoms. Most products don’t treat the actual fungus — or they leave your skin greasy and irritated.</p>",
+        "ggqdJqb9-cf_label": "<p>Try New Aura</p>"
+      }
+    },
+    "gp_section_582182504530969561": {
+      "type": "gp-section-582182504530969561",
+      "settings": {
+        "checksum": "2183d6028a25a3948f41613123df890d54f2550e94bfa501ee6117049270b813_1_1_0_0__1",
+        "ggjfV5MA8mt_text": "Feel better. Look better.",
+        "ggvX54A-W4s_text": "Feel better. Look better.",
+        "ggxPCqpxfuw_text": "<span style=\"font-size:27px;\">Say Goodbye to the itching, flaking, and redness for good</span>",
+        "ggaSPFEM25j_text": "<span style=\"font-size:20px;\">New Aura targets the real root of beard irritation: inflamed, itchy, and fungus-infested skin. Our herbal-powered formula<strong> soothes, calms, and restores</strong> — so you can finally grow a clean, flake-free beard with confidence.</span>",
+        "ggtZ83yxNn2_leftImageLabel": "Before",
+        "ggtZ83yxNn2_rightImageLabel": "After",
+        "gg9qB58y96k_text": "<span style=\"background-color:rgb(255,255,255);color:rgb(48,48,48);font-size:14px;\"><i>Lachlan, 38 - 3 weeks into using New Aura**</i></span>",
+        "ggnkSgWL4kn_text": "Say Goodbye to the itching, flaking, and redness for good",
+        "ggUN_UkHg7g_text": "New Aura targets the real root of beard irritation: inflamed, itchy, and fungus-infested skin. Our herbal-powered formula<strong> soothes, calms, and restores</strong> — so you can finally grow a clean, flake-free beard with confidence.",
+        "ggBVfbrCevH_leftImageLabel": "Before",
+        "ggBVfbrCevH_rightImageLabel": "After",
+        "ggZjtUTFR66_text": "<span style=\"font-size:36px;\">One Cream. 4 Problems Solved.</span>",
+        "ggebhZIoTBD_text": "<p><span style=\"font-size:20px;\">You’re not just dealing with dry skin.</span><br><span style=\"font-size:20px;\">Whether it’s <strong>seborrheic dermatitis, psoriasis, dandruff, or just constant itch</strong> — New Aura is trusted by over 87,000+ men to stop beard flakes at the root, even when everything else failed.</span></p>",
+        "gg2w-NFpXKW_text": "<p><span style=\"font-size:20px;\"><i>No steroids. No greasy buildup. Just clear, calm skin you don’t have to think about.</i></span></p>",
+        "ggMD5ZafC87_label": "<p>Try New Aura</p>",
+        "ggZFh00YdZa_text": "<span style=\"background-color:rgb(255,255,255);color:rgb(48,48,48);font-size:14px;\"><i>Lachlan, 38 - 3 weeks into using New Aura**</i></span>",
+        "ggY2024Clb6_text": "One Cream. 4 Problems Solved.",
+        "ggoild-2Yn-_text": "<p>You’re not just dealing with dry skin.<br>Whether it’s <strong>seborrheic dermatitis, psoriasis, dandruff, or just constant itch</strong> — New Aura is trusted by over 87,000+ men to stop beard flakes at the root, even when everything else failed.</p>",
+        "ggRJqnc8WIZ_text": "<p><i>No steroids. No greasy buildup. Just clear, calm skin you don’t have to think about.</i></p>",
+        "ggzZYHJ6sAn_label": "<p>Try New Aura</p>"
+      }
+    },
+    "gp_section_582182504531035097": {
+      "type": "gp-section-582182504531035097",
+      "settings": {
+        "checksum": "d9e8e04dc2e5ef070f67b1f3d92294ed015c20a1d13825deb5d96aff04cc0554_1_1_0_0__1"
+      }
+    },
+    "gp_section_582182504531100633": {
+      "type": "gp-section-582182504531100633",
+      "settings": {
+        "checksum": "2c441f02bf76425fbaab3249fb2102f16f6d2f5895e23570c2d91cf02ad8103b_1_1_0_0__1",
+        "ggeh38ynuNg_text": "<p><span style=\"font-size:36px;\">Step 1:</span></p>",
+        "ggJ1VnEqvmZ_text": "<p><span style=\"font-size:20px;\">Wash &amp; dry the area</span></p>",
+        "ggY_ljY8xcM_text": "<p><span style=\"font-size:36px;\"><strong>Step 2:</strong></span></p>",
+        "ggF0GFDo8NH_text": "<p><span style=\"font-size:20px;\">Massage in cream for 2–3 minutes</span></p>",
+        "ggj-t23NLOi_text": "<p><span style=\"font-size:33px;\"><strong>Step 3:</strong></span></p>",
+        "ggeMA5G8SLv_text": "<p><span style=\"font-size:20px;\">Use 2–3x daily, until symptoms clear</span></p>",
+        "gg-3iVEJ5BK_text": "<p><span style=\"font-size:20px;\">Keep using it for a few days after symptoms clear to stop flare-ups from coming back.</span></p>",
+        "ggCXndC_PGO_label": "<p><span style=\"font-size:25px;\">Try New Aura</span></p>",
+        "ggfi1u7yA6L_text": "<p>Step 1:</p>",
+        "gg3v2DzNqju_text": "<p>Wash &amp; dry the area</p>",
+        "ggVwWlQcW6a_text": "<p>Step 2:</p>",
+        "gggfkp2wobs_text": "<p>Massage in cream for 2–3 minutes</p>",
+        "gggOLna09PW_text": "<p>Step 3:</p>",
+        "ggfncPGTEUl_text": "<p>Use 2–3x daily, until symptoms clear</p>",
+        "gg_IMpmTFRF_text": "<p>Keep using it for a few days after symptoms clear to stop flare-ups from coming back.</p>",
+        "ggQ1QVlxj99_label": "<p>Try New Aura</p>"
+      }
+    }
+  },
+  "order": [
+    "gp_section_582182504530707417",
+    "gp_section_582182504530772953",
+    "gp_section_582182504530969561",
+    "gp_section_582182504531100633",
+    "gp_section_582182504530904025",
+    "gp_section_582182504530838489",
+    "gp_section_582182504531035097"
+  ]
+}

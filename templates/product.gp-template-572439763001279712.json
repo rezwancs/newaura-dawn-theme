@@ -1,0 +1,111 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_572439763135694048": {
+      "settings": {
+        "checksum": "b9d583b49df5a1d3b2d3f92f13f0367cc016ff433e1731e8e39829eca5c8b81a_1_1_0_0__1",
+        "gg04OwYVEr6_text": "1. You’re always itching and scratching your face",
+        "gg4M8FYYrtj_text": "<span style=\"color:#247EAA;\">3 Signs</span> There’s Fungus Living in Your Beard (And You're Feeding It Daily)",
+        "ggFMB4DTlIm_label": "<p>Get Relief Now</p><p>&nbsp;</p>",
+        "ggUN_UkHg7g_text": "You think it’s just dry skin or maybe irritation from shaving. But if you’re constantly picking at your beard, there’s a high chance it’s something deeper—like a fungal overgrowth feeding on the oils in your skin.",
+        "ggUmh8D4Lug_text": "That irritation under your beard? It’s not normal. Left untreated, it can turn into seborrheic dermatitis, folliculitis, or worse—making it nearly impossible to grow a healthy beard.",
+        "ggcpvHHUzuy_text": "Most guys never talk about this. But if your beard feels gross, flakes constantly, or never looks clean no matter what you try—it’s not your fault. And it’s not “just dry skin,” either.",
+        "ggjXZQE7Q42_text": "3. You see redness, bumps, or even patchy spots",
+        "ggt8x-SF0RE_text": "No matter how much conditioner or balm you apply, the flakes keep coming back. That’s because this isn’t “dry skin” – it’s a yeast issue, and most grooming products just feed it.",
+        "ggyfG66c2gM_text": "2. You’ve got flakes and dryness that won’t go away",
+        "section_preload": "true"
+      },
+      "type": "gp-section-572439763135694048"
+    },
+    "gp_section_572439763135759584": {
+      "settings": {
+        "checksum": "cbbbd10c43e2f42f583a8d806e92ad4a458ced575bfdcb54815caeb61251fcbc_1_1_0_0__1",
+        "gg-R-o2RouB_text": "<p>⚔️ Packed with anti-fungal ingredients</p><p>❄️ Delivers instant cooling relief on contact</p><p>🧼 Clears out buildup without stripping your skin</p><p>💪 Helps prevent flare-ups before they start</p>",
+        "gg2ajaIEA0m_text": "What Most Guys Don’t Realize...",
+        "ggS0OuArNXX_text": "But This Is Different",
+        "ggYwEE0h_SA_label": "<p>End the Itch for Good</p>",
+        "ggaEyeFOR0o_text": "<p>This formula was made to fight the real cause: yeast.</p>",
+        "ggkQP-iBtKp_text": "<p><span style=\"color:#0A0A0A;font-size:14px;\">Beard oils, balms, and heavy moisturizers can actually fuel the yeast—making itching, redness, and flakes even worse.</span></p>"
+      },
+      "type": "gp-section-572439763135759584"
+    },
+    "gp_section_572444065434436760": {
+      "settings": {
+        "checksum": "536687c60939b4e9dacbf06ee342fb356e004d16080f1caccc59cf1586188d6a_1_1_0_0__1",
+        "ggYhD6kEO3W_text": "<p>A clean, flake-free, itch-free beard you're actually proud to grow.</p>",
+        "ggYvzQxQYbm_text": "The results?",
+        "ggz1VfrJu60_leftImageLabel": "Before",
+        "ggz1VfrJu60_rightImageLabel": "After"
+      },
+      "type": "gp-section-572444065434436760"
+    },
+    "gp_section_572552585869788384": {
+      "settings": {
+        "checksum": "65fe5763b60f6ca6e43bf11b2e1bc21bebcce21d3032ebc05d557e008ecdafa0_1_1_0_0__1",
+        "gg12nKOQPUn_label": "<p>Get Relief Now</p><p>&nbsp;</p>",
+        "gg9-6xYDZFW_text": "1. You’re always itching and scratching your face",
+        "ggIim6_fduj_text": "3. You see redness, bumps, or even patchy spots",
+        "ggRSZrXbRvX_text": "2. You’ve got flakes and dryness that won’t go away",
+        "ggVgQThzTVy_text": "You think it’s just dry skin or maybe irritation from shaving. But if you’re constantly picking at your beard, there’s a high chance it’s something deeper—like a fungal overgrowth feeding on the oils in your skin.",
+        "ggXQKNyKP4f_text": "That irritation under your beard? It’s not normal. Left untreated, it can turn into seborrheic dermatitis, folliculitis, or worse—making it nearly impossible to grow a healthy beard.",
+        "ggawBW8dEZ7_text": "3 Signs There’s Fungus Living in Your Beard (And You're Feeding It Daily)",
+        "ggmNbGESDPp_text": "Most guys never talk about this. But if your beard feels gross, flakes constantly, or never looks clean no matter what you try—it’s not your fault. And it’s not “just dry skin,” either.",
+        "ggw1qj7IaEe_text": "No matter how much conditioner or balm you apply, the flakes keep coming back. That’s because this isn’t “dry skin” – it’s a yeast issue, and most grooming products just feed it."
+      },
+      "type": "gp-section-572552585869788384"
+    },
+    "gp_section_572554123199644544": {
+      "settings": {
+        "checksum": "1c4626d66b44a0b69639fd31f6e9c4352d81ece29179ce41c27a2a18bebd9f7e_1_1_0_0__1",
+        "gg3e0rV5Ng-_text": "But This Is Different",
+        "gg5bBpnPYtK_text": "<p>Beard oils, balms, and heavy moisturizers can actually fuel the yeast—making itching, redness, and flakes even worse.</p>",
+        "ggPOOoCczlw_label": "<p>End the Itch for Good</p>",
+        "ggYPrjES0k5_text": "<p>This formula was made to fight the real cause: yeast.</p>",
+        "ggokSJHdw8t_text": "What Most Guys Don’t Realize...",
+        "ggvHPTQ9jRS_text": "<p>⚔️ Packed with anti-fungal ingredients</p><p>❄️ Delivers instant cooling relief on contact</p><p>🧼 Clears out buildup without stripping your skin</p><p>💪 Helps prevent flare-ups before they start</p>"
+      },
+      "type": "gp-section-572554123199644544"
+    },
+    "gp_section_572556046875231047": {
+      "settings": {
+        "checksum": "228e649f4c2cca7838b549c6e6b811a90af0eb27d680d161020186dca837116e_1_1_0_0__1",
+        "gg1ILSXp0XA_text": "<p><span style=\"background-color:rgba(15,101,158,0.77);color:#FFFFFF;\">&nbsp; You get a free tub with your first order 😉 &nbsp;</span></p>",
+        "ggCfqqAgxnU_text": "<p>Try it today before your beard pays the price.</p>",
+        "ggE78DIIv25_label": "<p>Shop Now &amp; Calm the Beard Chaos</p>",
+        "ggEg4mk5hZ8_text": "<p>A clean, flake-free, itch-free beard you're actually proud to grow.</p>",
+        "ggGw8hpA-g__leftImageLabel": "Before",
+        "ggGw8hpA-g__rightImageLabel": "After",
+        "ggJKwdx4iR2_text": "The results?",
+        "ggsNs0lPww0_text": "Stop feeding the yeast, Start Fixing the Problem...."
+      },
+      "type": "gp-section-572556046875231047"
+    },
+    "gp_section_572556046875231456": {
+      "settings": {
+        "checksum": "528cd6b43379eb0814da0cf327d02ede89b84412f447a6f313656aceda4f9d34_1_1_0_0__1",
+        "ggCRW0Gilzb_label": "<p>Shop Now &amp; Calm the Beard Chaos</p>",
+        "ggDpkM76_WN_text": "<p>Try it today before your beard pays the price.</p>",
+        "ggY1YN4UDvp_text": "<p><span style=\"background-color:rgba(15,101,158,0.77);color:#FFFFFF;\">&nbsp; You get a free tub with your first order 😉 &nbsp;</span></p>",
+        "ggYKjhi8opk_text": "Stop feeding the yeast, Start Fixing the Problem...."
+      },
+      "type": "gp-section-572556046875231456"
+    }
+  },
+  "order": [
+    "gp_section_572439763135694048",
+    "gp_section_572552585869788384",
+    "gp_section_572439763135759584",
+    "gp_section_572554123199644544",
+    "gp_section_572444065434436760",
+    "gp_section_572556046875231456",
+    "gp_section_572556046875231047"
+  ]
+}

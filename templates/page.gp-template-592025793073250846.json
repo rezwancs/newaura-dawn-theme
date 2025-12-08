@@ -1,0 +1,225 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_592025808004973489": {
+      "settings": {
+        "checksum": "9910783442c2bdb624fba7f49b3efa7db127b5781798cc483a162a1e79995294_1_1_1_0__1",
+        "section_preload": "true"
+      },
+      "type": "gp-section-592025808004973489"
+    },
+    "gp_section_592025808575398796": {
+      "settings": {
+        "checksum": "9ca7a2f4723cc07b929a497ea426fa62ff0d2b4e8154795f391fff3df4870dbb_1_1_1_0__1",
+        "gg6l8iPXSVz_text": "<strong>1. How bad is your dandruff right now?</strong>",
+        "ggBbCK276Xs_label": "<p>😭</p><p><strong>Terrible Out of Control</strong></p>",
+        "gg_Z893PyGn_label": "<p>😊</p><p><strong>&nbsp;No Dandruff At All!</strong></p>",
+        "ggh8ufiV44z_label": "<p>😥</p><p><strong>Bad Flakes and Irritation</strong></p>",
+        "gguVzxgnQjD_label": "<p>☹️</p><p><strong>It's Noticable</strong></p>",
+        "ggv1Zw8buhC_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592025808575398796"
+    },
+    "gp_section_592266652272296844": {
+      "settings": {
+        "checksum": "17440ea3f1eba8b7ffd3bfd9cc59633b52bc4f5035890cbdfe9aec25f732d873_1_1_1_0__1",
+        "gg6TdcwKQns_label": "<p>Shedding Hair</p>",
+        "ggJ48GmJp4d_label": "<p>Continue</p>",
+        "ggKvfJHJvJx_label": "<p>Pain</p>",
+        "ggVhXP1ii-f_label": "<p>Itching</p>",
+        "ggafycXaNN2_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose all that apply</span></p>",
+        "ggajw8h41Tg_label": "<p>Redness</p>",
+        "ggohregobDC_text": "<strong>2. What symptoms are you experiencing?</strong>",
+        "ggqidth1toB_label": "<p>Redness</p>",
+        "ggsP5RPiLpV_label": "<p>Flaking</p>"
+      },
+      "type": "gp-section-592266652272296844"
+    },
+    "gp_section_592328114344821497": {
+      "settings": {
+        "checksum": "99cb58e36d07fb3b414bdac4182d992a131d23fb54eb53db9b39880fde9f7eb2_1_1_1_0__1",
+        "gg0cIPOVhrt_label": "<p>1+ Month</p>",
+        "gg5Pi2pNvRr_label": "<p>6+ Months</p>",
+        "ggDTCZTWZ1m_text": "<strong>3. How Long Have You Had Dandruff/Flakes?</strong>",
+        "ggKwihJTbIC_label": "<p>Multiple Years</p>",
+        "ggZP7gFu6MJ_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose one</span></p>",
+        "ggiSQgAeFVn_label": "<p>1+ Year</p>",
+        "gguX1rbPdUX_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592328114344821497"
+    },
+    "gp_section_592329368760484601": {
+      "settings": {
+        "checksum": "ce999536d0704fa1e2edc64a1b018add8dafc6c83df7b0e8ad536ffabb28c9a5_1_1_1_0__1",
+        "gg1bb2fFo8s_label": "<p>Continue</p>",
+        "gg9IhnqApfv_text": "<strong>4. How Does Dandruff Affect Your Day-to-Day Life?</strong>",
+        "ggBfDuzfXDk_label": "<p>😔 I Always Feel Dirty</p>",
+        "ggIAgVGWKZa_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose all that apply</span></p>",
+        "ggbgIlCTKL0_label": "<p>💔 I'm Insecure About Intimacy</p>",
+        "ggkVHlwmFst_label": "<p>🙈 I Hide Under Hoodies/Hats</p>",
+        "ggsEeW8iE47_label": "<p>⬛ I Never Wear Black</p>"
+      },
+      "type": "gp-section-592329368760484601"
+    },
+    "gp_section_592338811313193868": {
+      "settings": {
+        "checksum": "69f309b981318c0557575f170a1f5253c3e5ecf0c057672751f45bdd9fc630a1_1_1_1_0__1",
+        "gg2wZP0ECua_text": "<strong>5. How Do Your Flakes Usually Look?</strong>",
+        "ggKxdrqW327_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose all that apply</span></p>",
+        "ggLSy9BMUQy_text": "Small and White",
+        "ggQzmSe3jff_text": "Big and Yellowwish",
+        "ggeKqxzsFaX_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592338811313193868"
+    },
+    "gp_section_592344914881151884": {
+      "settings": {
+        "checksum": "fae5be113017fbc52555de54f518359fc167fa04d5909933b81cd86fb173296f_1_1_1_0__1",
+        "ggc5jKMBGcX_text": "Determining Severity Level...",
+        "ggefhvr0HCg_text": "Analysing Symptoms...",
+        "ggjE4DY6zBP_text": "<strong>Finding Your Exact Dandruff Type...</strong>",
+        "ggvbFYcbH78_text": "Finding Root Cause...",
+        "ggvxArrgs4F_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592344914881151884"
+    },
+    "gp_section_592360942658913164": {
+      "settings": {
+        "checksum": "31f54f4c813a93a91fef19f3f94ee22b86b88a9929107c142447ca437aa8140d_1_1_1_0__1",
+        "gg2NeyzsQF__text": "- Harsh Chemicals",
+        "ggJV6d7hBRY_text": "Characteristics:",
+        "ggLjQl8ZFA1_text": "<strong>ROOT CAUSE: </strong><i><strong>Imbalanced</strong></i><strong> &nbsp;</strong><span style=\"color:#D0011B;\"><strong>Scalp Microbiome</strong></span>",
+        "ggMaxviy1A4_text": "- Harsh Chemicals",
+        "ggSj2l4RV87_label": "<p>Continue</p>",
+        "ggUWz7V1WRc_text": "- Yeast Overgrowth",
+        "gg_iJKdDTJq_text": "<strong>Based On Your Answers You Likely Have:</strong>",
+        "ggdk3cF4d7c_text": "<span style=\"color:#D0011B;\"><strong><u>SEVERE</u></strong></span> level <strong><u>Fungus-Based</u></strong> Dandruff",
+        "ggh9_L6NqbO_text": "<p>A balanced scalp microbiome is made up of good bacteria and natural oils that fight off flakes. When the microbiome is imbalanced, the bad fungus takes over and creates dandruff.</p>",
+        "ggr3fQ8uU8u_text": "Characteristics:",
+        "ggtumd4voCZ_text": "<strong>Continue the quiz to get a <u>Personalized Treatment Recommendation:</u></strong>",
+        "ggxaaI2C_Eg_text": "- Yeast Overgrowth"
+      },
+      "type": "gp-section-592360942658913164"
+    },
+    "gp_section_592461277423469086": {
+      "settings": {
+        "checksum": "31792a5ccba335a9787484bbac42c89e5134529cc0a333949112e9820821aa77_1_1_1_0__1",
+        "ggBcGLoBmvQ_label": "<p>I Haven't Tried Any</p>",
+        "ggEE2L64gX0_label": "<p>Selenium Sulfide</p>",
+        "ggZSpu8D9o1_label": "<p>Coal Tar</p>",
+        "ggcUKTZDbG0_text": "<strong>6. What Dandruff Shampoos Have You Tried Before?</strong>",
+        "ggcyE1c3G7F_label": "<p>Ketoconazole</p>",
+        "gghKlWY405A_label": "<p>Zinc Pyrithione</p>",
+        "ggjvaMRYNar_label": "<p>Salicylic Acid</p>",
+        "gglG2s_5FhJ_label": "<p>Continue</p>",
+        "gguWZ-SZJy1_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose all that apply</span></p>",
+        "ggzkfcRAiQo_label": "<p>Head &amp; Shoulders</p>"
+      },
+      "type": "gp-section-592461277423469086"
+    },
+    "gp_section_592461501885842353": {
+      "settings": {
+        "checksum": "aae25d8691227a70b37562b30b3bff02ebc93688f5390ae26ae11242a83be5b5_1_1_1_0__1"
+      },
+      "type": "gp-section-592461501885842353"
+    },
+    "gp_section_592488741675729657": {
+      "settings": {
+        "checksum": "195edf983f079eed5f74b79a219c4223a14f236e604470adb8b83a11b800ea65_1_1_1_0__1",
+        "gg12kxY9txh_label": "<p>Hair shedding</p>",
+        "gg6tADnEd-N_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Choose all that apply</span></p>",
+        "ggFHA3K5Ahx_label": "<p>Irritation</p>",
+        "ggRTzndd8gh_text": "<strong>7. What Side-Effects Have You Experienced From Shampoos?</strong>",
+        "ggSMnVaxaHR_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">People with your scalp-type report higher likelihood of Chemical Shampoo Side-Effects.</span></p>",
+        "ggdB9GNHBoD_label": "<p>Chemical Smell</p>",
+        "ggkbzZfgEFr_label": "<p>Itching</p>",
+        "ggm4BiAo2ym_label": "<p>Continue</p>",
+        "ggpEF1_3ZRK_label": "<p>Burning Sensation</p>",
+        "ggrG_PAJe2j_label": "<p>Dryness</p>"
+      },
+      "type": "gp-section-592488741675729657"
+    },
+    "gp_section_592488834470511537": {
+      "settings": {
+        "checksum": "5f5d4284098353fb091ccf980209398c96416374da47ca2a3c40555b32220942_1_1_1_0__1",
+        "ggoGrGyrNaO_text": "<strong>8. How Much Do You Want To You Became Flake-Free?</strong>",
+        "ggus4xGhR9y_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592488834470511537"
+    },
+    "gp_section_592497567011439134": {
+      "settings": {
+        "checksum": "0989c7702223e8a2ebccdd439dbe78f03bcced9decfd46be27b4a0e18b43ba76_1_1_1_0__1",
+        "gg7HBS0BOh4_text": "<strong>Why Medicated Shampoos <u>Fail To Cure</u> Dandruff.</strong>",
+        "ggFFTcJSIE4_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Instead you need something that attacks the root cause by <i><u>nourishing and balancing the scalp.</u></i></span></p>",
+        "ggOiM0__m8Z_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">This might temporarily stop flakes, but by stripping natural oils and good bacteria they disrupt the scalp microbiome.&nbsp;</span></p>",
+        "ggQCe4Wl-Gg_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">'Anti-dandruff' shampoos use harsh chemicals to strip the scalp of everything: oils, skin, bacteria.&nbsp;</span></p>",
+        "gggBupxULcz_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">It's a band-aid, not a long-term solution.</span></p>",
+        "ggq2UBqYxZv_label": "<p>Continue</p>"
+      },
+      "type": "gp-section-592497567011439134"
+    },
+    "gp_section_592498714203914782": {
+      "settings": {
+        "checksum": "109d42375ceeebccf291c8629f2af0d310a2c67a238b5b38ff87d9bcd39de888_1_1_1_0__1",
+        "ggbxNlYnw88_text": "Natural Long-Term Solution",
+        "ggcnblyXInJ_text": "<strong>9. Which One Do You Prefer?</strong>",
+        "ggfoPj6LJJK_label": "<p>Continue</p>",
+        "ggn49q_5_jn_text": "<p><span style=\"background-color:rgb(250,246,242);color:rgb(63,65,68);font-size:14.4px;\">Please choose an option</span></p>",
+        "ggsbR1GoaiL_text": "Chemical Quick-Fix"
+      },
+      "type": "gp-section-592498714203914782"
+    },
+    "gp_section_592503738241909497": {
+      "settings": {
+        "checksum": "33dab3bed940e603bda3bf93a508a763e7e3c4769d73a80a2026bedc5458fd3c_1_1_1_0__1",
+        "gg4X5DltNLY_text": "Analysing Symptoms...",
+        "ggTPjJ1uNUD_text": "Finding Root Cause...",
+        "ggX25mA8lqa_text": "<strong>Finding Your Personalized Treatment Plan...</strong>",
+        "ggj2eGlgotI_label": "<p>Continue</p>",
+        "ggvLxUK41IB_text": "Determining Severity Level..."
+      },
+      "type": "gp-section-592503738241909497"
+    },
+    "gp_section_592504007834993401": {
+      "settings": {
+        "checksum": "8fd1526285a64c79dcfd259201cb8b9ff74d0f3f73e5441bdfa522b3434ad7b9_1_1_1_0__1",
+        "gg010kyHf_3_childItem_0": "<p>Crafted To Nourish/Balance Scalp</p>",
+        "gg010kyHf_3_childItem_1": "<p>Natural Ingredients, No Harsh Chemicals</p>",
+        "gg010kyHf_3_childItem_2": "<p>12,000+ Flake-Free CustomersLast but not least …</p>",
+        "ggJp_ZIFdeu_label": "<p>CLAIM DISCOUNT</p>",
+        "ggTmyiYi9Hi_text": "<strong>Your <u>Personalized</u> Treatment Recommendation:</strong>",
+        "ggsJzUoZ7tF_text": "<strong>Congratulations!</strong> You Unlocked The <u>Quiz-Completion Discount</u>.<br>Claim Now To Get Up To 50% OFF!",
+        "ggzhcf-T4Az_text": "New Aura Anti-Fungal Cream"
+      },
+      "type": "gp-section-592504007834993401"
+    }
+  },
+  "order": [
+    "gp_section_592025808004973489",
+    "gp_section_592025808575398796",
+    "gp_section_592266652272296844",
+    "gp_section_592328114344821497",
+    "gp_section_592329368760484601",
+    "gp_section_592338811313193868",
+    "gp_section_592344914881151884",
+    "gp_section_592360942658913164",
+    "gp_section_592461277423469086",
+    "gp_section_592488741675729657",
+    "gp_section_592497567011439134",
+    "gp_section_592488834470511537",
+    "gp_section_592498714203914782",
+    "gp_section_592503738241909497",
+    "gp_section_592504007834993401",
+    "gp_section_592461501885842353"
+  ],
+  "layout": "theme.gempages.blank"
+}

@@ -92,6 +92,21 @@
     gap: 8px;
   }
 
+  .cart-drawer-items {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cart-drawer__form {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100%;
+    overflow: hidden;
+  }
+
   .cart-drawer__scroll-area {
     flex: 1;
     overflow-y: auto;
@@ -169,21 +184,22 @@
 
   .cart-item__quantity-selector {
     position: relative;
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    gap: 10px;
   }
 
-  .cart-item__quantity-btn {
+  .cart-item__quantity-text {
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 4px 8px;
-    background: #fff;
+    padding: 4px 12px;
+    background: #f9f9f9;
     font-size: 14px;
     display: flex;
     align-items: center;
-    gap: 4px;
-    cursor: pointer;
-    min-width: 40px;
     justify-content: center;
+    color: #333;
+    cursor: default;
   }
 
   .cart-item__remove {
@@ -191,13 +207,10 @@
     font-size: 11px;
     text-decoration: underline;
     color: #666;
-    margin-top: 4px;
     background: none;
     border: none;
     padding: 0;
     cursor: pointer;
-    width: 100%;
-    text-align: center;
   }
 
   /* Free Items */
@@ -422,7 +435,7 @@
         <span>🚨</span>
       </div>
 
-      <cart-drawer-items class="{% if cart == empty %} is-empty{% endif %}">
+      <cart-drawer-items class="cart-drawer-items{% if cart == empty %} is-empty{% endif %}">
         <form action="{{ routes.cart_url }}" id="CartDrawer-Form" class="cart__contents cart-drawer__form" method="post">
           <div class="cart-drawer__scroll-area" id="CartDrawer-CartItems">
             
@@ -478,25 +491,9 @@
 
                 <div class="cart-item__actions">
                   <div class="cart-item__quantity-selector">
-                    <div class="cart-item__quantity-btn">
-                      {{ item.quantity }}
-                      <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                      </svg>
+                    <div class="cart-item__quantity-text">
+                      Qty: {{ item.quantity }}
                     </div>
-                    <select 
-                      name="updates[]" 
-                      data-index="{{ item.index | plus: 1 }}" 
-                      class="quantity__input"
-                      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer;"
-                      aria-label="{{ 'products.product.quantity.input_label' | t: product: item.product.title | escape }}"
-                      id="Drawer-quantity-{{ item.index | plus: 1 }}"
-                      data-quantity-variant-id="{{ item.variant.id }}"
-                    >
-                      {% for i in (1..10) %}
-                        <option value="{{ i }}" {% if item.quantity == i %}selected{% endif %}>{{ i }}</option>
-                      {% endfor %}
-                    </select>
                     
                     <cart-remove-button id="CartDrawer-Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}">
                       <button type="button" class="cart-item__remove" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
@@ -613,5 +610,21 @@
     if(display) {
         startTimer(fiveMinutes, display);
     }
+
+    // Fallback for close button if custom element method fails or isn't ready
+    const closeBtns = document.querySelectorAll('.drawer__close');
+    closeBtns.forEach(btn => {
+      btn.addEventListener('click', function(e) {
+        const drawer = this.closest('cart-drawer');
+        if (drawer) {
+           if (typeof drawer.close === 'function') {
+             drawer.close();
+           } else {
+             drawer.classList.remove('active');
+             document.body.classList.remove('overflow-hidden');
+           }
+        }
+      });
+    });
   });
 </script>

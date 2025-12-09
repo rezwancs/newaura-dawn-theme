@@ -211,21 +211,24 @@
   .cart-item__quantity-selector {
     position: relative;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
   }
 
-  .cart-item__quantity-text {
+  .cart-item__quantity-box {
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 4px 12px;
-    background: #f9f9f9;
+    padding: 4px 8px;
+    background: #fff;
     font-size: 14px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    gap: 6px;
     color: #333;
     cursor: default;
+    min-width: 45px;
   }
 
   .cart-item__remove {
@@ -517,8 +520,11 @@
 
                   <div class="cart-item__actions">
                     <div class="cart-item__quantity-selector">
-                      <div class="cart-item__quantity-text">
-                        Qty: {{ item.quantity }}
+                      <div class="cart-item__quantity-box">
+                        <span>{{ item.quantity }}</span>
+                        <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M1 1L5 5L9 1" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
                       </div>
                       
                       <cart-remove-button id="CartDrawer-Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}">

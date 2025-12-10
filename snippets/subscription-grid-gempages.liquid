@@ -85,31 +85,48 @@
   }
 
   .vip-gift-card {
-    border: 2px solid #000;
-    border-radius: 15px;
-    padding: 15px 10px;
+    border: 1px dashed #2ecc71;
+    border-radius: 10px;
+    padding: 10px;
     text-align: center;
     position: relative;
-    background: rgba(0, 0, 0, 0.05); /* 70% transparent with buy button color approximation */
-    min-height: 100px;
+    background: #fff;
+    min-height: 140px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: space-between;
   }
 
-  .vip-gift-text {
+  .vip-gift-header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
     font-size: 12px;
-    line-height: 1.4;
-    margin-bottom: 10px;
-    font-weight: 500;
+    font-weight: bold;
+    margin-bottom: 5px;
   }
 
-  .check-mark {
-    color: #2ecc71; /* Green color */
-    font-size: 24px;
-    margin-top: auto;
-    font-weight: bold;
+  .vip-gift-free-label {
+    color: #000;
+  }
+
+  .vip-gift-price {
+    text-decoration: line-through;
+    color: #000;
+  }
+
+  .vip-gift-image {
+    width: 100%;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 5px;
+  }
+
+  .vip-gift-title {
+    font-size: 11px;
+    color: #666;
+    line-height: 1.2;
   }
 
   /* Responsive adjustments */
@@ -154,33 +171,20 @@
     <h3 class="vip-access-title">BLACK FRIDAY VIP ACCESS - FREE Gifts With Your First Order!</h3>
     
     <div class="vip-gifts-grid">
-      <!-- Gift 1 -->
-      <div class="vip-gift-card">
-        <span class="quantity-indicator" style="top: -15px; left: 10px;">1</span>
-        <div class="vip-gift-text">Free Shipping<br>Branded Box</div>
-        <div class="check-mark">✓</div>
-      </div>
-
-      <!-- Gift 2 -->
-      <div class="vip-gift-card">
-        <span class="quantity-indicator" style="top: -15px; left: 10px;">1</span>
-        <div class="vip-gift-text">Free Application<br>Brush<br>(Derm recommended)</div>
-        <div class="check-mark">✓</div>
-      </div>
-
-      <!-- Gift 3 -->
-      <div class="vip-gift-card">
-        <span class="quantity-indicator" style="top: -15px; left: 10px;">2</span>
-        <div class="vip-gift-text">5 Seb Derm<br>Lifestyle Tips<br>Dermatologist Guide</div>
-        <div class="check-mark">✓</div>
-      </div>
-
-      <!-- Gift 4 -->
-      <div class="vip-gift-card">
-        <span class="quantity-indicator" style="top: -15px; left: 10px;">4</span>
-        <div class="vip-gift-text">Gift Card</div>
-        <div class="check-mark">✓</div>
-      </div>
+      {% if product.metafields.custom.free_products %}
+        {% for gift in product.metafields.custom.free_products.value %}
+          <div class="vip-gift-card">
+            <div class="vip-gift-header">
+              <span class="vip-gift-free-label">FREE</span>
+              <span class="vip-gift-price">{{ gift.price | money }}</span>
+            </div>
+            {% if gift.featured_image %}
+              <img src="{{ gift.featured_image | image_url: width: 200 }}" alt="{{ gift.title }}" class="vip-gift-image" loading="lazy" width="200" height="200">
+            {% endif %}
+            <div class="vip-gift-title">{{ gift.title }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
     </div>
   </div>
 </div>
